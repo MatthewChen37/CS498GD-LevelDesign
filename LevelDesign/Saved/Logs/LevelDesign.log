@@ -1338,3 +1338,968 @@ Make sure 'BP_LearningKit_PlayerCharacter_C' has been compiled for  Get walkSpee
 [2022.02.24-23.57.55:233][949]LogContentValidation: Display: Validating World /Game/Hour_of_Code/Maps/LevelDesignLevel.LevelDesignLevel
 [2022.02.24-23.57.55:233][949]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Hour_of_Code/Maps/LevelDesignLevel_BuiltData.LevelDesignLevel_BuiltData
 [2022.02.24-23.57.58:444][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.02.25-00.06.46:627][640]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2022.02.25-00.06.46:627][640]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/Developers/mc52/Collections/' because it could not be accessed. Aborting watch request...
+[2022.02.25-00.06.46:829][654]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2022.02.25-00.07.14:946][542]LogTexture: Display: Building textures: DiffuseTextureTest (OODLE_AutoDXT, 1024X1024)
+[2022.02.25-00.07.14:946][542]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.07.14:946][542]LogTexture: Display: Building textures: Corpse_body_Complete_10011_Normal (OODLE_BC5, 2048X2048)
+[2022.02.25-00.07.14:946][542]LogTexture: Display: Building textures: Corpse_body_Complete_10011_BaseColor (OODLE_AutoDXT, 2048X2048)
+[2022.02.25-00.07.14:946][542]LogTexture: Display: Building textures: Corpse_Sword_Body_Low_green_OcclusionRoughnessMetallic (OODLE_AutoDXT, 2048X2048)
+[2022.02.25-00.07.14:946][542]LogTexture: Display: Building textures: Corpse_body_Complete_10011_OcclusionRoughnessMetallic (OODLE_AutoDXT, 2048X2048)
+[2022.02.25-00.07.14:946][542]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.25-00.07.14:946][542]LogTexture: Display: Building textures: Melee_Clothes_low_Corpse_Melee_D (OODLE_AutoDXT, 2048X2048)
+[2022.02.25-00.07.14:946][542]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.07.14:946][542]LogTexture: Display: Building textures: Corpse_Sword_Body_Low_green_BaseColor (OODLE_AutoDXT, 2048X2048)
+[2022.02.25-00.07.14:946][542]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.07.14:946][542]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.07.14:946][542]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.25-00.07.14:946][542]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.07.14:946][542]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.07.14:946][542]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.07.14:946][542]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.07.14:946][542]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.07.14:946][542]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.07.14:946][542]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.07.14:946][542]LogMaterial: Display: Missing cached shadermap for Character_Substance_Layers_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 8D1E1DECE4AF517388B01DA100A3AAFE954FCB78), compiling. 
+[2022.02.25-00.07.15:131][542]LogTexture: Display: Building textures: Corpse_Sword_Body_Low_green_Normal (OODLE_BC5, 2048X2048)
+[2022.02.25-00.07.15:131][542]LogTexture: Display: Building textures: Melee_Clothes_low_Corpse_Melee_M (OODLE_AutoDXT, 2048X2048)
+[2022.02.25-00.07.15:131][542]LogShaderCompilers: Display: Submitted 74 shader compile jobs with 'Low' priority
+[2022.02.25-00.07.15:708][542]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 74
+[2022.02.25-00.07.15:708][542]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 64
+[2022.02.25-00.07.15:708][542]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 54
+[2022.02.25-00.07.15:708][542]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 44
+[2022.02.25-00.07.15:708][542]LogShaderCompilers: Display: Started 40 'Local' shader compile jobs with 'Low' priority
+[2022.02.25-00.07.15:708][542]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.25-00.07.15:708][542]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.25-00.07.15:708][542]LogTexture: Display: Building textures: Melee_Clothes_low_Corpse_Melee_Normal (OODLE_BC5, 2048X2048)
+[2022.02.25-00.07.15:708][542]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.07.15:708][542]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.07.15:708][542]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.25-00.07.15:708][542]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.25-00.07.15:709][542]LogMaterial: Display: Missing cached shadermap for Corpse_Melee_Dress_Inst in PCD3D_SM5, Default, SM5 (DDC key hash: B3566A86B07C98302E2A3691E51A39BBACAAA1B1), compiling. 
+[2022.02.25-00.07.15:825][542]LogShaderCompilers: Display: Submitted 74 shader compile jobs with 'Low' priority
+[2022.02.25-00.07.15:830][542]LogSkeletalMesh: Display: [AssetLog] C:\Users\mc52\Documents\GitHub\CS498GD-LevelDesign\LevelDesign\Content\CityofBrass_Enemies\Meshes\Enemy\Corpse_Melee\Corpse_Melee.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2022.02.25-00.07.15:830][542]LogSkeletalMesh: Building Skeletal Mesh Corpse_Melee...
+[2022.02.25-00.07.15:992][542]LogSkeletalMesh: Built Skeletal Mesh [0.16s] /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse_Melee/Corpse_Melee.Corpse_Melee
+[2022.02.25-00.07.16:027][542]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse_Melee/Corpse_Melee.Corpse_Melee
+[2022.02.25-00.07.16:033][542]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.25-00.07.16:589][542]LogRenderer: Reallocating scene render targets to support 1208x884 Format 10 NumSamples 1 (Frame:1).
+[2022.02.25-00.07.16:593][542]LogStaticMesh: Allocated 256x128x128 distance field atlas = 8.0Mb, with 48 objects containing 6.1Mb backing data
+[2022.02.25-00.07.19:935][711]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2022.02.25-00.07.19:935][711]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.25-00.07.19:943][711]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.25-00.07.19:943][711]LogShaderCompilers: Display: Total job queries 148, among them cache hits 0 (0.00%)
+[2022.02.25-00.07.19:943][711]LogShaderCompilers: Display: Tracking 10 distinct input hashes that result in 9 distinct outputs (90.00%)
+[2022.02.25-00.07.19:943][711]LogShaderCompilers: Display: RAM used: 0.04 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.02.25-00.07.19:943][711]LogShaderCompilers: Display: ================================================
+[2022.02.25-00.07.20:072][719]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2022.02.25-00.07.20:072][719]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.25-00.07.20:299][734]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2022.02.25-00.07.20:299][734]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.25-00.07.20:557][752]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2022.02.25-00.07.20:557][752]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.25-00.07.21:139][793]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2022.02.25-00.07.21:139][793]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.25-00.07.21:572][822]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2022.02.25-00.07.21:572][822]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.25-00.07.21:640][826]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2022.02.25-00.07.21:640][826]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.25-00.07.22:019][850]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2022.02.25-00.07.22:019][850]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.25-00.07.22:115][856]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 87
+[2022.02.25-00.07.22:115][856]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 77
+[2022.02.25-00.07.22:115][856]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Normal' priority
+[2022.02.25-00.07.22:880][905]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 67
+[2022.02.25-00.07.22:880][905]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.02.25-00.07.23:269][929]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 57
+[2022.02.25-00.07.23:269][929]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.02.25-00.07.25:531][ 78]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 47
+[2022.02.25-00.07.25:531][ 78]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.02.25-00.07.25:652][ 84]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 37
+[2022.02.25-00.07.25:652][ 84]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.02.25-00.07.26:475][137]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2022.02.25-00.07.26:475][137]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2022.02.25-00.07.26:742][150]LogSlate: Window 'Corpse_Melee' being destroyed
+[2022.02.25-00.07.26:752][150]LogSlate: Window 'Corpse_Melee' being destroyed
+[2022.02.25-00.07.26:775][150]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.07.26:776][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.07.27:437][211]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2022.02.25-00.07.27:437][211]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.02.25-00.07.28:932][337]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2022.02.25-00.07.28:932][337]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.02.25-00.07.29:242][364]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2022.02.25-00.07.29:242][364]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.02.25-00.07.29:357][376]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2022.02.25-00.07.29:357][376]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.25-00.07.29:727][415]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2022.02.25-00.07.29:727][415]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.25-00.07.29:869][432]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2022.02.25-00.07.29:869][432]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.25-00.07.30:173][467]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2022.02.25-00.07.30:173][467]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.25-00.07.30:281][480]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.02.25-00.07.30:281][480]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.25-00.07.43:859][949]LogTexture: Display: Building textures: Sploder_M (OODLE_AutoDXT, 1024X1024)
+[2022.02.25-00.07.43:859][949]LogTexture: Display: Building textures: Sploder_N (OODLE_BC5, 1024X1024)
+[2022.02.25-00.07.43:859][949]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.07.43:859][949]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.25-00.07.43:859][949]LogTexture: Display: Building textures: Sploder_D (OODLE_AutoDXT, 1024X1024)
+[2022.02.25-00.07.43:859][949]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.07.43:859][949]LogTexture: Display: Building textures: SploderBody_D (OODLE_AutoDXT, 2048X2048)
+[2022.02.25-00.07.43:859][949]LogTexture: Display: Building textures: SploderBody_N (OODLE_BC5, 2048X2048)
+[2022.02.25-00.07.43:859][949]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.25-00.07.43:860][949]LogTexture: Display: Building textures: SploderBody_M (OODLE_AutoDXT, 2048X2048)
+[2022.02.25-00.07.43:860][949]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.07.43:860][949]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.25-00.07.43:860][949]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.07.43:860][949]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.07.43:860][949]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.07.43:860][949]LogSkeletalMesh: Building Skeletal Mesh Sploder_Mesh...
+[2022.02.25-00.07.43:899][949]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/CityofBrass_Enemies/Meshes/Enemy/Sploder/Sploder_Mesh.Sploder_Mesh
+[2022.02.25-00.07.43:923][949]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/CityofBrass_Enemies/Meshes/Enemy/Sploder/Sploder_Mesh.Sploder_Mesh
+[2022.02.25-00.07.43:927][949]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.25-00.07.51:957][690]LogSlate: Window 'Sploder_Mesh' being destroyed
+[2022.02.25-00.07.51:963][690]LogSlate: Window 'Sploder_Mesh' being destroyed
+[2022.02.25-00.07.51:985][690]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.07.51:985][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.07.58:694][363]LogTexture: Display: Building textures: Large_M (OODLE_AutoDXT, 2048X2048)
+[2022.02.25-00.07.58:694][363]LogTexture: Display: Building textures: Large_D (OODLE_AutoDXT, 2048X2048)
+[2022.02.25-00.07.58:694][363]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.07.58:694][363]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.07.58:694][363]LogTexture: Display: Building textures: Large_N (OODLE_BC5, 2048X2048)
+[2022.02.25-00.07.58:694][363]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.07.58:694][363]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.07.58:694][363]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.25-00.07.58:694][363]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.25-00.07.58:694][363]LogSkeletalMesh: Display: [AssetLog] C:\Users\mc52\Documents\GitHub\CS498GD-LevelDesign\LevelDesign\Content\CityofBrass_Enemies\Meshes\Enemy\Large\Large_Mesh.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2022.02.25-00.07.58:694][363]LogSkeletalMesh: Building Skeletal Mesh Large_Mesh...
+[2022.02.25-00.07.58:739][363]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/CityofBrass_Enemies/Meshes/Enemy/Large/Large_Mesh.Large_Mesh
+[2022.02.25-00.07.58:756][363]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/CityofBrass_Enemies/Meshes/Enemy/Large/Large_Mesh.Large_Mesh
+[2022.02.25-00.07.58:760][363]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.25-00.08.04:911][916]LogSlate: Window 'Large_Mesh' being destroyed
+[2022.02.25-00.08.04:918][916]LogSlate: Window 'Large_Mesh' being destroyed
+[2022.02.25-00.08.04:919][916]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.08.04:919][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.08.10:915][407]LogTexture: Display: Building textures: Corpse_Sword_Clothes_Low_02_-_Default_BaseColor (OODLE_AutoDXT, 2048X2048)
+[2022.02.25-00.08.10:915][407]LogTexture: Display: Building textures: Corpse_Sword_Clothes_Low_02_-_Default_OcclusionRoughnessMetallic (OODLE_AutoDXT, 2048X2048)
+[2022.02.25-00.08.10:915][407]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.08.10:915][407]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.08.10:915][407]LogTexture: Display: Building textures: Corpse_Sword_Body_Low_green_BaseColor (OODLE_AutoDXT, 2048X2048)
+[2022.02.25-00.08.10:915][407]LogTexture: Display: Building textures: Corpse_Sword_Clothes_Low_02_-_Default_Normal (OODLE_BC5, 2048X2048)
+[2022.02.25-00.08.10:915][407]LogTexture: Display: Building textures: Corpse_Sword_Body_Low_green_OcclusionRoughnessMetallic (OODLE_AutoDXT, 2048X2048)
+[2022.02.25-00.08.10:915][407]LogTexture: Display: Building textures: Corpse_Sword_Body_Low_green_Normal (OODLE_BC5, 2048X2048)
+[2022.02.25-00.08.10:915][407]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.08.10:915][407]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.25-00.08.10:915][407]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.08.10:915][407]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.25-00.08.10:915][407]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.08.10:915][407]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.08.10:915][407]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.25-00.08.10:915][407]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.08.10:915][407]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.25-00.08.10:915][407]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.08.10:915][407]LogSkeletalMesh: Building Skeletal Mesh Corpse_Basic...
+[2022.02.25-00.08.10:991][407]LogSkeletalMesh: Built Skeletal Mesh [0.08s] /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse_Basic/Corpse_Basic.Corpse_Basic
+[2022.02.25-00.08.11:022][407]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse_Basic/Corpse_Basic.Corpse_Basic
+[2022.02.25-00.08.11:026][407]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.25-00.08.16:388][901]LogSlate: Window 'Corpse_Basic' being destroyed
+[2022.02.25-00.08.16:395][901]LogSlate: Window 'Corpse_Basic' being destroyed
+[2022.02.25-00.08.16:396][901]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.08.16:396][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.08.19:555][257]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse_Melee/Corpse_Melee.Corpse_Melee
+[2022.02.25-00.08.19:559][257]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.25-00.08.25:270][772]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/Corpse_Skeleton.Corpse_Skeleton
+[2022.02.25-00.08.25:380][772]LogSkeletalMesh: Building Skeletal Mesh Corpse_Sword...
+[2022.02.25-00.08.25:496][772]LogSkeletalMesh: Built Skeletal Mesh [0.12s] /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/Corpse_Sword.Corpse_Sword
+[2022.02.25-00.08.25:509][772]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.25-00.08.31:758][433]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Aggro.Charger_Aggro
+[2022.02.25-00.08.31:770][433]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Aggro.Charger_Aggro
+[2022.02.25-00.08.31:773][433]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.25-00.08.32:107][433]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.02.25-00.08.35:406][689]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Alert_ChargeAttack.Charger_Alert_ChargeAttack
+[2022.02.25-00.08.35:453][689]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.08.35:454][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.08.37:847][872]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Alert_Attack_Push.Corpse_Alert_Attack_Push
+[2022.02.25-00.08.37:897][872]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.08.37:897][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.08.41:744][135]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Alert_Attack_Slow.Corpse_Alert_Attack_Slow
+[2022.02.25-00.08.41:801][135]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.08.41:801][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.08.49:703][728]LogSlate: Window 'Corpse_Alert_Attack_Slow' being destroyed
+[2022.02.25-00.08.49:709][728]LogSlate: Window 'Corpse_Alert_Attack_Slow' being destroyed
+[2022.02.25-00.08.49:736][728]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.08.49:736][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.08.49:798][728]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.08.49:798][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.08.49:844][728]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.08.49:844][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.08.49:856][728]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.08.49:856][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.08.49:906][728]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.08.49:906][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.11.20:837][  9]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.02.25-00.11.20:855][  9]LogContentBrowser: Creating deferred item: NewFolder
+[2022.02.25-00.11.23:714][352]LogContentBrowser: Attempting asset rename: NewFolder -> Enemies
+[2022.02.25-00.11.23:715][352]LogContentBrowser: End creating deferred item NewFolder
+[2022.02.25-00.11.51:761][605]LogTexture: Display: Building textures: Fez_Mask (OODLE_AutoDXT, 1024X1024)
+[2022.02.25-00.11.51:761][605]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.11.51:761][605]LogTexture: Display: Building textures: Fez_D (OODLE_AutoDXT, 1024X1024)
+[2022.02.25-00.11.51:761][605]LogTexture: Display: Building textures: Fez_N (OODLE_BC5, 1024X1024)
+[2022.02.25-00.11.51:761][605]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.11.51:761][605]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.25-00.11.51:761][605]LogStaticMesh: Building static mesh Fez_Mesh...
+[2022.02.25-00.11.51:778][605]LogStaticMesh: Built static mesh [0.02s] /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse_Basic/Fez_Mesh.Fez_Mesh
+[2022.02.25-00.11.51:803][605]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 1114 triangles, Range [-0.1, 1.0], Fez_Mesh
+[2022.02.25-00.11.51:803][605]LogStaticMesh: Building static mesh Corpse_Sword_Turban...
+[2022.02.25-00.11.51:828][605]LogStaticMesh: Built static mesh [0.03s] /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/Corpse_Sword_Turban.Corpse_Sword_Turban
+[2022.02.25-00.11.51:921][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Alert_Attack_Approach.Corpse_Alert_Attack_Approach
+[2022.02.25-00.11.51:921][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Alert_Attack_Basic01.Corpse_Alert_Attack_Basic01
+[2022.02.25-00.11.51:921][605]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 2046 triangles, Range [-0.2, 1.0], Corpse_Sword_Turban
+[2022.02.25-00.11.51:921][605]LogStaticMesh: Building static mesh CorpseSpear_Helmet...
+[2022.02.25-00.11.51:965][605]LogStaticMesh: Built static mesh [0.05s] /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse_Spear/CorpseSpear_Helmet.CorpseSpear_Helmet
+[2022.02.25-00.11.52:974][605]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 2166 triangles, Range [-0.2, 0.8], CorpseSpear_Helmet
+[2022.02.25-00.11.52:974][605]LogTexture: Display: Building textures: CorpseSpear_D (OODLE_AutoDXT, 2048X2048)
+[2022.02.25-00.11.52:974][605]LogTexture: Display: Building textures: CorpseSpear_M (OODLE_AutoDXT, 2048X2048)
+[2022.02.25-00.11.52:974][605]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.11.52:974][605]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.11.52:974][605]LogTexture: Display: Building textures: CorpseSpear_N (OODLE_BC5, 2048X2048)
+[2022.02.25-00.11.52:974][605]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.11.52:974][605]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.11.52:974][605]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.25-00.11.52:974][605]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.25-00.11.53:063][605]LogSkeletalMesh: Display: [AssetLog] C:\Users\mc52\Documents\GitHub\CS498GD-LevelDesign\LevelDesign\Content\CityofBrass_Enemies\Meshes\Enemy\Corpse_Spear\CorpseSpear_Mesh.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2022.02.25-00.11.53:063][605]LogSkeletalMesh: Building Skeletal Mesh CorpseSpear_Mesh...
+[2022.02.25-00.11.53:150][605]LogSkeletalMesh: Built Skeletal Mesh [0.09s] /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse_Spear/CorpseSpear_Mesh.CorpseSpear_Mesh
+[2022.02.25-00.11.53:248][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/T_key68237EAD4293DA59E0EFCC9E570F6B7D.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Textures/T_key.uasset'
+[2022.02.25-00.11.53:260][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/T_jumpBoostCAE2093541D885DF853CDD980DC1C683.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Textures/T_jumpBoost.uasset'
+[2022.02.25-00.11.53:357][605]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.02.25-00.11.53:402][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.02.25-00.11.53:427][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.02.25-00.11.53:445][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.02.25-00.11.53:470][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hour_of_Code/Widgets/W_HUD" FILE="../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/Hour_of_Code/Widgets/W_HUD.uasset" SILENT=true
+[2022.02.25-00.11.53:493][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/W_HUD7AA95A7E4BDC02FC9F06C5AFEC616778.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/Hour_of_Code/Widgets/W_HUD.uasset'
+[2022.02.25-00.11.53:569][605]LogMetaData: Removing '/Game/LearningKit_Games/Assets/Characters/Enemies/Corpse_Basic/Fez_Mesh.Fez_Mesh' ref from Metadata '/Game/CityofBrass_Enemies/Meshes/Enemy/Corpse_Basic/Fez_Mesh.PackageMetaData'
+[2022.02.25-00.11.53:654][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Basic966982FC4631BDD5F0F9F8AF0F9E8A4E.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse_Basic/Corpse_Basic.uasset'
+[2022.02.25-00.11.53:657][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Basic0DF217314FF3F12B214064B456D4F59A.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Corpse_Basic/Corpse_Basic.uasset'
+[2022.02.25-00.11.53:693][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Fez_Mesh4105F2DC44DC8B913C7E5A88C96C0A0D.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse_Basic/Fez_Mesh.uasset'
+[2022.02.25-00.11.53:695][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Fez_Mesh834F4BDF406879FD53BB9B81BC5FE38D.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Corpse_Basic/Fez_Mesh.uasset'
+[2022.02.25-00.11.53:851][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Melee3E78C5964B595773FEA161B8E3CC1BFB.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse_Melee/Corpse_Melee.uasset'
+[2022.02.25-00.11.53:853][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Melee9D53391644A2D0BB5F731299CFABF0E4.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Corpse_Melee/Corpse_Melee.uasset'
+[2022.02.25-00.11.53:929][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Melee_PhysicsAssetD26B47C8421A9DEFCDBD8797A71F4E62.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse_Melee/Corpse_Melee_PhysicsAsset.uasset'
+[2022.02.25-00.11.54:006][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.02.25-00.11.54:036][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.02.25-00.11.54:055][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.02.25-00.11.54:145][605]LogSkeletalMesh: Display: [AssetLog] C:\Users\mc52\Documents\GitHub\CS498GD-LevelDesign\LevelDesign\Content\CityofBrass_Enemies\Meshes\Enemy\Large_Charger\Large_Charger_Mesh.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2022.02.25-00.11.54:145][605]LogSkeletalMesh: Building Skeletal Mesh Large_Charger_Mesh...
+[2022.02.25-00.11.54:169][605]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/CityofBrass_Enemies/Meshes/Enemy/Large_Charger/Large_Charger_Mesh.Large_Charger_Mesh
+[2022.02.25-00.11.54:196][605]LogSkeletalMesh: Display: [AssetLog] C:\Users\mc52\Documents\GitHub\CS498GD-LevelDesign\LevelDesign\Content\CityofBrass_Enemies\Meshes\Enemy\Hooker\Hooker_Mesh.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2022.02.25-00.11.54:197][605]LogSkeletalMesh: Building Skeletal Mesh Hooker_Mesh...
+[2022.02.25-00.11.54:221][605]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/CityofBrass_Enemies/Meshes/Enemy/Hooker/Hooker_Mesh.Hooker_Mesh
+[2022.02.25-00.11.55:159][605]LogTexture: Display: Building textures: Hooker_M (OODLE_AutoDXT, 2048X2048)
+[2022.02.25-00.11.55:159][605]LogTexture: Display: Building textures: Hooker_D (OODLE_AutoDXT, 2048X2048)
+[2022.02.25-00.11.55:159][605]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.11.55:159][605]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.11.55:159][605]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.11.55:159][605]LogTexture: Display: Building textures: Hooker_N (OODLE_BC5, 2048X2048)
+[2022.02.25-00.11.55:159][605]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.11.55:159][605]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.25-00.11.55:159][605]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.25-00.11.56:307][605]LogTexture: Display: Building textures: Grenadier_N (OODLE_BC5, 1024X1024)
+[2022.02.25-00.11.56:307][605]LogTexture: Display: Building textures: Grenadier_M (OODLE_AutoDXT, 1024X1024)
+[2022.02.25-00.11.56:307][605]LogTexture: Display: Building textures: Grenadier_D (OODLE_AutoDXT, 1024X1024)
+[2022.02.25-00.11.56:307][605]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.11.56:307][605]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.25-00.11.56:307][605]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.11.56:307][605]LogTexture: Display: Building textures: GrenadierClothes_D (OODLE_AutoDXT, 2048X2048)
+[2022.02.25-00.11.56:307][605]LogTexture: Display: Building textures: GrenadierBody_M (OODLE_AutoDXT, 2048X2048)
+[2022.02.25-00.11.56:307][605]LogTexture: Display: Building textures: GrenadierBody_N (OODLE_BC5, 2048X2048)
+[2022.02.25-00.11.56:307][605]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.11.56:307][605]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.11.56:308][605]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.11.56:308][605]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.11.56:308][605]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.25-00.11.56:308][605]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.25-00.11.56:308][605]LogSkeletalMesh: Display: [AssetLog] C:\Users\mc52\Documents\GitHub\CS498GD-LevelDesign\LevelDesign\Content\CityofBrass_Enemies\Meshes\Enemy\Grenadier\Grenadier_Mesh.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2022.02.25-00.11.56:308][605]LogSkeletalMesh: Building Skeletal Mesh Grenadier_Mesh...
+[2022.02.25-00.11.56:376][605]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/CityofBrass_Enemies/Meshes/Enemy/Grenadier/Grenadier_Mesh.Grenadier_Mesh
+[2022.02.25-00.11.56:927][605]LogTexture: Display: Building textures: Hooker_ygui (OODLE_AutoDXT, 2048X2048)
+[2022.02.25-00.11.56:927][605]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.11.56:927][605]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.11.56:927][605]LogSkeletalMesh: Display: [AssetLog] C:\Users\mc52\Documents\GitHub\CS498GD-LevelDesign\LevelDesign\Content\CityofBrass_Enemies\Meshes\Enemy\Hooker\Hooker_Boss_Mesh.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2022.02.25-00.11.56:927][605]LogSkeletalMesh: Building Skeletal Mesh Hooker_Boss_Mesh...
+[2022.02.25-00.11.56:975][605]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/CityofBrass_Enemies/Meshes/Enemy/Hooker/Hooker_Boss_Mesh.Hooker_Boss_Mesh
+[2022.02.25-00.11.58:680][605]LogTexture: Display: Building textures: FemaleWarrior_M (OODLE_AutoDXT, 2048X2048)
+[2022.02.25-00.11.58:680][605]LogTexture: Display: Building textures: Archer_D (OODLE_AutoDXT, 2048X2048)
+[2022.02.25-00.11.58:680][605]LogTexture: Display: Building textures: FemaleWarrior_D (OODLE_AutoDXT, 2048X2048)
+[2022.02.25-00.11.58:680][605]LogTexture: Display: Building textures: Archer_M (OODLE_AutoDXT, 2048X2048)
+[2022.02.25-00.11.58:680][605]LogTexture: Display: Building textures: Archer_N (OODLE_BC5, 2048X2048)
+[2022.02.25-00.11.58:680][605]LogTexture: Display: Building textures: FemaleWarrior_N (OODLE_BC5, 2048X2048)
+[2022.02.25-00.11.58:680][605]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.11.58:680][605]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.11.58:680][605]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.11.58:680][605]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.11.58:680][605]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.11.58:680][605]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.25-00.11.58:680][605]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.25-00.11.58:680][605]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.11.58:680][605]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.11.58:680][605]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.25-00.11.58:681][605]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.25-00.11.58:681][605]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.11.58:681][605]LogSkeletalMesh: Display: [AssetLog] C:\Users\mc52\Documents\GitHub\CS498GD-LevelDesign\LevelDesign\Content\CityofBrass_Enemies\Meshes\Enemy\Archer\Archer.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2022.02.25-00.11.58:681][605]LogSkeletalMesh: Building Skeletal Mesh Archer...
+[2022.02.25-00.11.58:726][605]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/CityofBrass_Enemies/Meshes/Enemy/Archer/Archer.Archer
+[2022.02.25-00.11.58:772][605]LogSkeletalMesh: Building Skeletal Mesh Charger...
+[2022.02.25-00.11.58:821][605]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/CityofBrass_Enemies/Meshes/Enemy/Charger/Charger.Charger
+[2022.02.25-00.11.59:797][605]LogTexture: Display: Building textures: Wizard_D (OODLE_AutoDXT, 2048X2048)
+[2022.02.25-00.11.59:797][605]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.11.59:797][605]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.11.59:797][605]LogTexture: Display: Building textures: Wizard_M (OODLE_AutoDXT, 2048X2048)
+[2022.02.25-00.11.59:797][605]LogTexture: Display: Building textures: Wizard_N (OODLE_BC5, 2048X2048)
+[2022.02.25-00.11.59:797][605]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.11.59:797][605]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.25-00.11.59:797][605]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.25-00.11.59:797][605]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.25-00.11.59:797][605]LogSkeletalMesh: Building Skeletal Mesh Wizard_Mesh...
+[2022.02.25-00.11.59:877][605]LogSkeletalMesh: Built Skeletal Mesh [0.08s] /Game/CityofBrass_Enemies/Meshes/Enemy/Wizard/Wizard_Mesh.Wizard_Mesh
+[2022.02.25-00.11.59:938][605]LogSkeletalMesh: Display: [AssetLog] C:\Users\mc52\Documents\GitHub\CS498GD-LevelDesign\LevelDesign\Content\CityofBrass_Enemies\Meshes\Enemy\Large_Sword\Large_Sword.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2022.02.25-00.11.59:939][605]LogSkeletalMesh: Building Skeletal Mesh Large_Sword...
+[2022.02.25-00.11.59:989][605]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/CityofBrass_Enemies/Meshes/Enemy/Large_Sword/Large_Sword.Large_Sword
+[2022.02.25-00.12.00:024][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse_Spear/animation/Spear_Alert_Attack_Small.Spear_Alert_Attack_Small
+[2022.02.25-00.12.00:024][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse_Spear/animation/Spear_Alert_Attack_Large.Spear_Alert_Attack_Large
+[2022.02.25-00.12.00:024][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Passive_Walk.Charger_Passive_Walk
+[2022.02.25-00.12.00:024][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Run_Right.Corpse_Run_Right
+[2022.02.25-00.12.00:024][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Run_Left.Corpse_Run_Left
+[2022.02.25-00.12.00:024][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Run_Forward.Corpse_Run_Forward
+[2022.02.25-00.12.00:029][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Run_Back.Corpse_Run_Back
+[2022.02.25-00.12.00:116][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_passive_idle.Corpse_passive_idle
+[2022.02.25-00.12.00:116][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Disarm.Corpse_Disarm
+[2022.02.25-00.12.00:116][605]LogMetaData: Removing '/Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/Corpse_Sword_Turban.Corpse_Sword_Turban' ref from Metadata '/Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/Corpse_Sword_Turban.PackageMetaData'
+[2022.02.25-00.12.00:135][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Alert_turn_Right_90.Corpse_Alert_turn_Right_90
+[2022.02.25-00.12.00:135][605]LogMetaData: Removing '/Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Run_Back.Corpse_Run_Back' ref from Metadata '/Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Run_Back.PackageMetaData'
+[2022.02.25-00.12.00:135][605]LogMetaData: Removing '/Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Run_Forward.Corpse_Run_Forward' ref from Metadata '/Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Run_Forward.PackageMetaData'
+[2022.02.25-00.12.00:136][605]LogMetaData: Removing '/Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Run_Left.Corpse_Run_Left' ref from Metadata '/Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Run_Left.PackageMetaData'
+[2022.02.25-00.12.00:137][605]LogMetaData: Removing '/Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Run_Right.Corpse_Run_Right' ref from Metadata '/Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Run_Right.PackageMetaData'
+[2022.02.25-00.12.00:167][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Alert_turn_Right_45.Corpse_Alert_turn_Right_45
+[2022.02.25-00.12.00:175][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Alert_turn_Middle.Corpse_Alert_turn_Middle
+[2022.02.25-00.12.00:200][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Alert_Attack_Slow2AB935B2493C9C8DC65E4785137983E3.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_Attack_Slow.uasset'
+[2022.02.25-00.12.00:204][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Alert_Attack_SlowBE18FFA74D7B32CCC5A6939414B7B0BE.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Alert_Attack_Slow.uasset'
+[2022.02.25-00.12.00:264][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Alert_Attack_PushB449AFE846CD967300B4C489B229A5C9.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_Attack_Push.uasset'
+[2022.02.25-00.12.00:381][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Sword4CD48F184CA153F513377789D0A951A3.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse/Corpse_Sword.uasset'
+[2022.02.25-00.12.00:384][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Sword216477DF428EA5A6C6CEA4A36BE781A2.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Corpse/Corpse_Sword.uasset'
+[2022.02.25-00.12.00:412][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Sword_ShadowPhysics21CFDA2B4C955FB1DBDA37B5D5A5E750.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse/Corpse_Sword_ShadowPhysics.uasset'
+[2022.02.25-00.12.00:419][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Skeleton09D8DCDE4FC013FC8CFF568913954E23.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse/Corpse_Skeleton.uasset'
+[2022.02.25-00.12.00:468][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Sword_Body_Low_green_OcclF5E02B1241BA2729942BA095D469459F.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse/Corpse_Sword_Body_Low_green_OcclusionRoughnessMetallic.uasset'
+[2022.02.25-00.12.00:541][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Sword_Body_Low_green_Norm33282E9E4BB6933F49117CB94EA15972.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse/Corpse_Sword_Body_Low_green_Normal.uasset'
+[2022.02.25-00.12.00:593][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Sword_Body_Low_green_Base1E0CD5D741073857944C418384D979DE.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse/Corpse_Sword_Body_Low_green_BaseColor.uasset'
+[2022.02.25-00.12.00:658][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Sword_PhysicsAssetAB6314D34C4324D782ABB8959532EED2.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse/Corpse_Sword_PhysicsAsset.uasset'
+[2022.02.25-00.12.00:691][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Sword_Turban895C258648AD5DA94561C9B3C3E302BE.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse/Corpse_Sword_Turban.uasset'
+[2022.02.25-00.12.00:693][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Sword_Turban2AC2D6104B898CDAEC18E785AF4EF565.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Corpse/Corpse_Sword_Turban.uasset'
+[2022.02.25-00.12.00:717][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Alert_Attack_Approach4BD8FFCD436824DA2ED3348412853245.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_Attack_Approach.uasset'
+[2022.02.25-00.12.00:719][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Alert_Attack_ApproachFD7809B0451C1EE1440198B10C5AAAAF.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Alert_Attack_Approach.uasset'
+[2022.02.25-00.12.00:743][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Alert_Attack_Basic013FDB0C084E1E01184E39248FC180C436.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_Attack_Basic01.uasset'
+[2022.02.25-00.12.00:745][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Alert_Attack_Basic0175059DE846B61B30E81E63882547F1ED.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Alert_Attack_Basic01.uasset'
+[2022.02.25-00.12.00:797][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Alert_Attack_Basic02.Corpse_Alert_Attack_Basic02
+[2022.02.25-00.12.00:806][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Alert_Attack_Basic02031524B14C5E4C0626668D8277BAA60D.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_Attack_Basic02.uasset'
+[2022.02.25-00.12.00:863][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Alert_Attack_Basic03.Corpse_Alert_Attack_Basic03
+[2022.02.25-00.12.00:863][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Alert_Attack_Basic0394D499F04F6BAC815D5356B0F685A2CB.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_Attack_Basic03.uasset'
+[2022.02.25-00.12.00:866][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Alert_Attack_Basic036A018A7A43F789DA2A6E189EEA906792.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Alert_Attack_Basic03.uasset'
+[2022.02.25-00.12.00:918][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Alert_Attack_Basic04.Corpse_Alert_Attack_Basic04
+[2022.02.25-00.12.00:918][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Alert_Attack_Basic0484D5C8CF4B2CEACCABA889B87757FEEF.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_Attack_Basic04.uasset'
+[2022.02.25-00.12.00:962][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Alert_Attack_Fast.Corpse_Alert_Attack_Fast
+[2022.02.25-00.12.00:962][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Alert_Attack_Fast804EAB5245689C6DECC4138947A3B967.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_Attack_Fast.uasset'
+[2022.02.25-00.12.01:005][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Alert_Attack_Fast2.Corpse_Alert_Attack_Fast2
+[2022.02.25-00.12.01:014][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Alert_Attack_Fast20E57ED4D4C4DCDD36B6A50BECB512A85.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_Attack_Fast2.uasset'
+[2022.02.25-00.12.01:079][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_alert_attack_right.Corpse_alert_attack_right
+[2022.02.25-00.12.01:079][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_alert_attack_rightB24E065C48E25D7FC59F9195154DD745.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_alert_attack_right.uasset'
+[2022.02.25-00.12.01:121][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Alert_Attack_Shield_Push.Corpse_Alert_Attack_Shield_Push
+[2022.02.25-00.12.01:122][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Alert_Attack_Shield_PushB894DFCD4FABE99C597DC3BE9341AB62.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_Attack_Shield_Push.uasset'
+[2022.02.25-00.12.01:179][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Alert_Death.Corpse_Alert_Death
+[2022.02.25-00.12.01:179][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Alert_Death381E6F4B4D274E45AE333393C12D3B57.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_Death.uasset'
+[2022.02.25-00.12.01:222][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Alert_Death2.Corpse_Alert_Death2
+[2022.02.25-00.12.01:230][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Alert_Death2B6BBB698472756DAAC9605879C2422A3.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_Death2.uasset'
+[2022.02.25-00.12.01:279][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Alert_Death3.Corpse_Alert_Death3
+[2022.02.25-00.12.01:279][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Alert_Death31F79B8C94EECE257861EDB8CE769041C.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_Death3.uasset'
+[2022.02.25-00.12.01:358][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Alert_Distracted_Grab.Corpse_Alert_Distracted_Grab
+[2022.02.25-00.12.01:358][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Alert_Distracted_Grab07F4A95242B5FBE02B74E5AB3E6BC7EB.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_Distracted_Grab.uasset'
+[2022.02.25-00.12.01:407][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_alert_idle.Corpse_alert_idle
+[2022.02.25-00.12.01:407][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_alert_idleAB2EC621495C404F11C4BA9E5ECCF10A.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_alert_idle.uasset'
+[2022.02.25-00.12.01:409][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_alert_idle2E69AE404BEE6C116E8859A72DBEA5A6.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_alert_idle.uasset'
+[2022.02.25-00.12.01:505][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Alert_Stunned.Corpse_Alert_Stunned
+[2022.02.25-00.12.01:505][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Alert_Stunned12B78F01420C8B4C01567B896F64CE8F.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_Stunned.uasset'
+[2022.02.25-00.12.01:571][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Alert_Stun_Knock_Back.Corpse_Alert_Stun_Knock_Back
+[2022.02.25-00.12.01:571][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Alert_Stun_Knock_BackB5ACE09E491AD55C0D4AD0B7998589C9.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_Stun_Knock_Back.uasset'
+[2022.02.25-00.12.01:573][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Alert_Stun_Knock_BackC039955441FB24EB8CB4978CE9824CE6.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Alert_Stun_Knock_Back.uasset'
+[2022.02.25-00.12.01:626][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Alert_Taunt.Corpse_Alert_Taunt
+[2022.02.25-00.12.01:628][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Alert_Taunt03303A2C4CCD2660DE1BC1B1FFB93C45.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_Taunt.uasset'
+[2022.02.25-00.12.01:770][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Alert_Tripped.Corpse_Alert_Tripped
+[2022.02.25-00.12.01:771][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Alert_TrippedBEC1B49B4B0BBFC4E9848B91C5D6B904.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_Tripped.uasset'
+[2022.02.25-00.12.01:773][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Alert_TrippedA9C09E3F4F6BC181348DE2A0F0C7FEB8.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Alert_Tripped.uasset'
+[2022.02.25-00.12.01:908][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Alert_Tripped_Forward.Corpse_Alert_Tripped_Forward
+[2022.02.25-00.12.01:917][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Alert_Tripped_Forward369858D94598280FAA21649EB342973B.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_Tripped_Forward.uasset'
+[2022.02.25-00.12.01:948][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Alert_turn_AddBase.Corpse_Alert_turn_AddBase
+[2022.02.25-00.12.01:948][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Alert_turn_AddBaseC18750F74C560FF0754D66BD585E866F.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_turn_AddBase.uasset'
+[2022.02.25-00.12.01:974][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Alert_turn_Left_45.Corpse_Alert_turn_Left_45
+[2022.02.25-00.12.01:974][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Alert_turn_Left_450C78D45B42372CD9372E5DA57B68B424.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_turn_Left_45.uasset'
+[2022.02.25-00.12.02:003][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Alert_turn_Left_90.Corpse_Alert_turn_Left_90
+[2022.02.25-00.12.02:003][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Alert_turn_Left_9083CE7058424F5BCB3680C28207F0EB53.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_turn_Left_90.uasset'
+[2022.02.25-00.12.02:026][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Alert_turn_MiddleAFFFA7E94342622BDFA068A545F8DAF8.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_turn_Middle.uasset'
+[2022.02.25-00.12.02:050][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Alert_turn_Right_45E514ED794F7B0F0122A089B8886F0440.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_turn_Right_45.uasset'
+[2022.02.25-00.12.02:074][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Alert_turn_Right_9079ECF4FA441148AFCBD624A862E7491B.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_turn_Right_90.uasset'
+[2022.02.25-00.12.02:098][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Disarm9AB155EE455243169EC1CD9308371A3D.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Disarm.uasset'
+[2022.02.25-00.12.02:123][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_passive_idleB1EB70004023F4285CEA968EBA3A83F8.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_passive_idle.uasset'
+[2022.02.25-00.12.02:148][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Run_BackB5E5D42C47BF41141D04228969D31691.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Run_Back.uasset'
+[2022.02.25-00.12.02:174][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Run_Forward57EB08094413C01198FF25B77F3C29B8.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Run_Forward.uasset'
+[2022.02.25-00.12.02:176][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Run_Forward08916FA74C33E9D1E0BB9184DEEEB863.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Run_Forward.uasset'
+[2022.02.25-00.12.02:202][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Run_Left45F7CA794192CB32A79EFFB4E3A7F303.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Run_Left.uasset'
+[2022.02.25-00.12.02:227][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Run_Right4F6975ED41212B4168D62894B23005E7.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Run_Right.uasset'
+[2022.02.25-00.12.02:536][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.02.25-00.12.02:561][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.02.25-00.12.02:579][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.02.25-00.12.02:597][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.02.25-00.12.02:614][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.02.25-00.12.02:632][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.02.25-00.12.02:649][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.02.25-00.12.02:666][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.02.25-00.12.02:684][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.02.25-00.12.02:701][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.02.25-00.12.02:719][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.02.25-00.12.02:739][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.02.25-00.12.02:757][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.02.25-00.12.02:775][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.02.25-00.12.02:791][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.02.25-00.12.02:808][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.02.25-00.12.02:826][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.02.25-00.12.02:843][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.02.25-00.12.02:861][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.02.25-00.12.02:878][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.02.25-00.12.02:896][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.02.25-00.12.02:912][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.02.25-00.12.02:929][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.02.25-00.12.02:952][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.02.25-00.12.02:971][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.02.25-00.12.02:989][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.02.25-00.12.03:007][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.02.25-00.12.03:025][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.02.25-00.12.03:043][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.02.25-00.12.03:060][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.02.25-00.12.03:078][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.02.25-00.12.03:105][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.02.25-00.12.03:123][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.02.25-00.12.03:154][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Melee84B944D344AC80F9205B988AF94354A7.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Corpse_Melee/Corpse_Melee.uasset'
+[2022.02.25-00.12.03:208][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Large_MeshBB85B5ED43014A97E54418950F8203FF.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Large/Large_Mesh.uasset'
+[2022.02.25-00.12.03:256][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Large_Charger_MeshE78283874C702AAD4F1D75A803860C48.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Large_Charger/Large_Charger_Mesh.uasset'
+[2022.02.25-00.12.03:296][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Hooker_Mesh948418414FCD5839313A2AB02A077E91.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Hooker/Hooker_Mesh.uasset'
+[2022.02.25-00.12.03:353][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Grenadier_Mesh4F19069B40B1D40A8DD9AFA348BA5600.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Grenadier/Grenadier_Mesh.uasset'
+[2022.02.25-00.12.03:411][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Hooker_Boss_MeshAC5152A5414F8714F978A48603CB56DC.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Hooker/Hooker_Boss_Mesh.uasset'
+[2022.02.25-00.12.03:490][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/CorpseSpear_Mesh633FF67049D1B22552FD0784ECB713A2.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Corpse_Spear/CorpseSpear_Mesh.uasset'
+[2022.02.25-00.12.03:543][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Archer8B8A11D24917839CA796C48EA1A5201D.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Archer/Archer.uasset'
+[2022.02.25-00.12.03:599][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Charger87C57546488DC3FA756496BE353D7609.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Charger/Charger.uasset'
+[2022.02.25-00.12.03:646][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Sploder_Mesh4673677843D3F13AFC0C4D97C138129D.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Sploder/Sploder_Mesh.uasset'
+[2022.02.25-00.12.03:704][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Wizard_MeshF78C5D08400C3963D9829595FDD6976F.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Wizard/Wizard_Mesh.uasset'
+[2022.02.25-00.12.03:765][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Large_Sword10F133624982B966964838B87339DCE2.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Large_Sword/Large_Sword.uasset'
+[2022.02.25-00.12.03:790][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Charger_Passive_WalkB5CBF8B5435CCFAF9F4447BCB17C3DE5.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Passive_Walk.uasset'
+[2022.02.25-00.12.03:884][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Passive_Ilde.Charger_Passive_Ilde
+[2022.02.25-00.12.03:884][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Charger_Passive_Ilde7ABC2DE54BA834B24B897B9E1ED37A7D.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Passive_Ilde.uasset'
+[2022.02.25-00.12.03:931][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Alert_ChargeWall.Charger_Alert_ChargeWall
+[2022.02.25-00.12.03:931][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Charger_Alert_ChargeWallD34279B048D2D3CB009402AF579C5DE6.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Alert_ChargeWall.uasset'
+[2022.02.25-00.12.03:976][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Flinch_back.Charger_Flinch_back
+[2022.02.25-00.12.03:985][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Charger_Flinch_backD1474B7243565553F3DBDEA07C07F883.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Flinch_back.uasset'
+[2022.02.25-00.12.04:064][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Death.Charger_Death
+[2022.02.25-00.12.04:064][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Charger_Death83410DD146F931C020CB13A3C28C1AC9.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Death.uasset'
+[2022.02.25-00.12.04:122][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Alert_Attack_Close.Charger_Alert_Attack_Close
+[2022.02.25-00.12.04:122][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Charger_Alert_Attack_CloseA05584D149A9817A39FCF5BC7933DFBD.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Alert_Attack_Close.uasset'
+[2022.02.25-00.12.04:146][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Charger_Alert_ChargeAttackB75E9AE142104BE93A8780A433A52D89.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Alert_ChargeAttack.uasset'
+[2022.02.25-00.12.04:204][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_KnockDown.Charger_KnockDown
+[2022.02.25-00.12.04:212][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Charger_KnockDownA4D996144576DAA30AD9A9B664A6753D.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_KnockDown.uasset'
+[2022.02.25-00.12.04:366][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Alert_Stunned.Charger_Alert_Stunned
+[2022.02.25-00.12.04:366][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Charger_Alert_StunnedB9F9A7B3448734230F8E939F108E7406.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Alert_Stunned.uasset'
+[2022.02.25-00.12.04:452][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Alert_Ilde.Charger_Alert_Ilde
+[2022.02.25-00.12.04:461][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Charger_Alert_IldeF2C26E1D47F7FED86C323EB0BDF9B89F.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Alert_Ilde.uasset'
+[2022.02.25-00.12.04:510][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Alert_Sprint.Charger_Alert_Sprint
+[2022.02.25-00.12.04:510][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Charger_Alert_Sprint84329E874219F1A8384EC3A86BE85160.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Alert_Sprint.uasset'
+[2022.02.25-00.12.04:535][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Spear_Alert_Attack_Large6414752449CE319757F06F9344216B30.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Corpse_Spear/animation/Spear_Alert_Attack_Large.uasset'
+[2022.02.25-00.12.04:559][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Spear_Alert_Attack_SmallF1B5B03B44AAF67A97AB4CAD25163382.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Corpse_Spear/animation/Spear_Alert_Attack_Small.uasset'
+[2022.02.25-00.12.04:596][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Alert_run.Charger_Alert_run
+[2022.02.25-00.12.04:596][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Charger_Alert_runE19D8B5D433985998383E998B4EA6B58.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Alert_run.uasset'
+[2022.02.25-00.12.04:598][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Basic415C9546437A9307E4DC1CB9DB964EFF.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Corpse_Basic/Corpse_Basic.uasset'
+[2022.02.25-00.12.04:622][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Charger_AggroE3AABD454A42F2EBAAB3E6BE170B52B4.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Aggro.uasset'
+[2022.02.25-00.12.04:677][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Grenadier/Animation/Grenadier_Attack_Throw.Grenadier_Attack_Throw
+[2022.02.25-00.12.04:686][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Grenadier_Attack_Throw32B7878E4BC19F36C05AF693A907B436.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Grenadier/Animation/Grenadier_Attack_Throw.uasset'
+[2022.02.25-00.12.04:709][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Body_Inst2C577263F4BDEF5347DD950995EEB9754.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Materials/Corpse_Body_Inst2.uasset'
+[2022.02.25-00.12.04:768][605]LogMetaData: Removing '/Game/LearningKit_Games/Assets/Characters/Enemies/Corpse_Spear/CorpseSpear_Helmet.CorpseSpear_Helmet' ref from Metadata '/Game/CityofBrass_Enemies/Meshes/Enemy/Corpse_Spear/CorpseSpear_Helmet.PackageMetaData'
+[2022.02.25-00.12.04:818][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/CorpseSpear_HelmetA28513AB47FEE9B45AE22FBC8419ACCB.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse_Spear/CorpseSpear_Helmet.uasset'
+[2022.02.25-00.12.04:820][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/CorpseSpear_Helmet2A48163342FA1D668D6124A1799B04A3.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Corpse_Spear/CorpseSpear_Helmet.uasset'
+[2022.02.25-00.12.04:898][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/CorpseSpear_Mesh43D9E7B74D1553A1A289339DA57A997C.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse_Spear/CorpseSpear_Mesh.uasset'
+[2022.02.25-00.12.04:900][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/CorpseSpear_Mesh0E5EC41E4DD06890DF6A87B0631D3E7D.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/CityofBrass_Enemies/Meshes/Enemy/Corpse_Spear/CorpseSpear_Mesh.uasset'
+[2022.02.25-00.12.04:924][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Spear_Alert_Attack_Large5C0D35B447F725E3D5CF449E5EF77112.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse_Spear/animation/Spear_Alert_Attack_Large.uasset'
+[2022.02.25-00.12.04:948][605]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Spear_Alert_Attack_Small80D007BA4C3BD5F97EFF6786B06896C9.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Assets/Characters/Enemies/Corpse_Spear/animation/Spear_Alert_Attack_Small.uasset'
+[2022.02.25-00.12.05:021][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.02.25-00.12.05:041][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.02.25-00.12.05:067][605]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.02.25-00.12.05:085][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.02.25-00.12.05:151][605]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.25-00.12.05:151][605]LogContentValidation: Display: Validating SkeletalMesh /Game/CityofBrass_Enemies/Meshes/Enemy/Sploder/Sploder_Mesh.Sploder_Mesh
+[2022.02.25-00.12.05:151][605]LogContentValidation: Display: Validating AnimSequence /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse_Spear/animation/Spear_Alert_Attack_Small.Spear_Alert_Attack_Small
+[2022.02.25-00.12.05:151][605]LogContentValidation: Display: Validating AnimSequence /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse_Spear/animation/Spear_Alert_Attack_Large.Spear_Alert_Attack_Large
+[2022.02.25-00.12.05:151][605]LogContentValidation: Display: Validating SkeletalMesh /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse_Spear/CorpseSpear_Mesh.CorpseSpear_Mesh
+[2022.02.25-00.12.05:151][605]LogContentValidation: Display: Validating StaticMesh /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse_Spear/CorpseSpear_Helmet.CorpseSpear_Helmet
+[2022.02.25-00.12.05:151][605]LogContentValidation: Display: Validating AnimSequence /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Run_Right.Corpse_Run_Right
+[2022.02.25-00.12.05:152][605]LogContentValidation: Display: Validating AnimSequence /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Run_Left.Corpse_Run_Left
+[2022.02.25-00.12.05:152][605]LogContentValidation: Display: Validating AnimSequence /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Run_Forward.Corpse_Run_Forward
+[2022.02.25-00.12.05:152][605]LogContentValidation: Display: Validating AnimSequence /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Run_Back.Corpse_Run_Back
+[2022.02.25-00.12.05:152][605]LogContentValidation: Display: Validating AnimSequence /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_passive_idle.Corpse_passive_idle
+[2022.02.25-00.12.05:152][605]LogContentValidation: Display: Validating AnimSequence /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Disarm.Corpse_Disarm
+[2022.02.25-00.12.05:152][605]LogContentValidation: Display: Validating AnimSequence /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_turn_Right_90.Corpse_Alert_turn_Right_90
+[2022.02.25-00.12.05:152][605]LogContentValidation: Display: Validating AnimSequence /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_turn_Right_45.Corpse_Alert_turn_Right_45
+[2022.02.25-00.12.05:152][605]LogContentValidation: Display: Validating AnimSequence /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_turn_Middle.Corpse_Alert_turn_Middle
+[2022.02.25-00.12.05:152][605]LogContentValidation: Display: Validating AnimSequence /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_turn_Left_90.Corpse_Alert_turn_Left_90
+[2022.02.25-00.12.05:152][605]LogContentValidation: Display: Validating AnimSequence /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_turn_Left_45.Corpse_Alert_turn_Left_45
+[2022.02.25-00.12.05:152][605]LogContentValidation: Display: Validating AnimSequence /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_turn_AddBase.Corpse_Alert_turn_AddBase
+[2022.02.25-00.12.05:152][605]LogContentValidation: Display: Validating AnimSequence /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_Tripped_Forward.Corpse_Alert_Tripped_Forward
+[2022.02.25-00.12.05:152][605]LogContentValidation: Display: Validating AnimSequence /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_Tripped.Corpse_Alert_Tripped
+[2022.02.25-00.12.05:152][605]LogContentValidation: Display: Validating AnimSequence /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_Taunt.Corpse_Alert_Taunt
+[2022.02.25-00.12.05:152][605]LogContentValidation: Display: Validating AnimSequence /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_Stun_Knock_Back.Corpse_Alert_Stun_Knock_Back
+[2022.02.25-00.12.05:152][605]LogContentValidation: Display: Validating AnimSequence /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_Stunned.Corpse_Alert_Stunned
+[2022.02.25-00.12.05:152][605]LogContentValidation: Display: Validating AnimSequence /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_alert_idle.Corpse_alert_idle
+[2022.02.25-00.12.05:152][605]LogContentValidation: Display: Validating AnimSequence /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_Distracted_Grab.Corpse_Alert_Distracted_Grab
+[2022.02.25-00.12.05:152][605]LogContentValidation: Display: Validating ObjectRedirector /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse_Spear/CorpseSpear_Mesh.CorpseSpear_Mesh
+[2022.02.25-00.12.05:152][605]LogContentValidation: Display: Validating AnimSequence /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_Death3.Corpse_Alert_Death3
+[2022.02.25-00.12.05:152][605]LogContentValidation: Display: Validating AnimSequence /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_Death2.Corpse_Alert_Death2
+[2022.02.25-00.12.05:152][605]LogContentValidation: Display: Validating ObjectRedirector /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse_Spear/CorpseSpear_Helmet.CorpseSpear_Helmet
+[2022.02.25-00.12.05:152][605]LogContentValidation: Display: Validating AnimSequence /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_Death.Corpse_Alert_Death
+[2022.02.25-00.12.05:152][605]LogContentValidation: Display: Validating AnimSequence /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_Attack_Shield_Push.Corpse_Alert_Attack_Shield_Push
+[2022.02.25-00.12.05:152][605]LogContentValidation: Display: Validating AnimSequence /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_alert_attack_right.Corpse_alert_attack_right
+[2022.02.25-00.12.05:152][605]LogContentValidation: Display: Validating AnimSequence /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_Attack_Fast2.Corpse_Alert_Attack_Fast2
+[2022.02.25-00.12.05:152][605]LogContentValidation: Display: Validating AnimSequence /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_Attack_Fast.Corpse_Alert_Attack_Fast
+[2022.02.25-00.12.05:152][605]LogContentValidation: Display: Validating AnimSequence /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_Attack_Basic04.Corpse_Alert_Attack_Basic04
+[2022.02.25-00.12.05:152][605]LogContentValidation: Display: Validating AnimSequence /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_Attack_Basic03.Corpse_Alert_Attack_Basic03
+[2022.02.25-00.12.05:152][605]LogContentValidation: Display: Validating AnimSequence /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_Attack_Basic02.Corpse_Alert_Attack_Basic02
+[2022.02.25-00.12.05:152][605]LogContentValidation: Display: Validating AnimSequence /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_Attack_Basic01.Corpse_Alert_Attack_Basic01
+[2022.02.25-00.12.05:152][605]LogContentValidation: Display: Validating AnimSequence /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_Attack_Approach.Corpse_Alert_Attack_Approach
+[2022.02.25-00.12.05:152][605]LogContentValidation: Display: Validating StaticMesh /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/Corpse_Sword_Turban.Corpse_Sword_Turban
+[2022.02.25-00.12.05:152][605]LogContentValidation: Display: Validating StaticMesh /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse_Basic/Fez_Mesh.Fez_Mesh
+[2022.02.25-00.12.05:152][605]LogContentValidation: Display: Validating AnimSequence /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_Attack_Slow.Corpse_Alert_Attack_Slow
+[2022.02.25-00.12.05:152][605]LogContentValidation: Display: Validating AnimSequence /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/animation/Corpse_Alert_Attack_Push.Corpse_Alert_Attack_Push
+[2022.02.25-00.12.05:152][605]LogContentValidation: Display: Validating AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Alert_ChargeAttack.Charger_Alert_ChargeAttack
+[2022.02.25-00.12.05:152][605]LogContentValidation: Display: Validating AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Aggro.Charger_Aggro
+[2022.02.25-00.12.05:152][605]LogContentValidation: Display: Validating SkeletalMesh /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/Corpse_Sword.Corpse_Sword
+[2022.02.25-00.12.05:152][605]LogContentValidation: Display: Validating ObjectRedirector /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Run_Forward.Corpse_Run_Forward
+[2022.02.25-00.12.05:152][605]LogContentValidation: Display: Validating ObjectRedirector /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Alert_Tripped.Corpse_Alert_Tripped
+[2022.02.25-00.12.05:152][605]LogContentValidation: Display: Validating ObjectRedirector /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Alert_Stun_Knock_Back.Corpse_Alert_Stun_Knock_Back
+[2022.02.25-00.12.05:153][605]LogContentValidation: Display: Validating ObjectRedirector /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_alert_idle.Corpse_alert_idle
+[2022.02.25-00.12.05:153][605]LogContentValidation: Display: Validating ObjectRedirector /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Alert_Attack_Basic03.Corpse_Alert_Attack_Basic03
+[2022.02.25-00.12.05:153][605]LogContentValidation: Display: Validating ObjectRedirector /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Alert_Attack_Basic01.Corpse_Alert_Attack_Basic01
+[2022.02.25-00.12.05:153][605]LogContentValidation: Display: Validating ObjectRedirector /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Alert_Attack_Approach.Corpse_Alert_Attack_Approach
+[2022.02.25-00.12.05:153][605]LogContentValidation: Display: Validating ObjectRedirector /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/Corpse_Sword_Turban.Corpse_Sword_Turban
+[2022.02.25-00.12.05:153][605]LogContentValidation: Display: Validating ObjectRedirector /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/Corpse_Sword.Corpse_Sword
+[2022.02.25-00.12.05:153][605]LogContentValidation: Display: Validating ObjectRedirector /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_Alert_Attack_Slow.Corpse_Alert_Attack_Slow
+[2022.02.25-00.12.05:153][605]LogContentValidation: Display: Validating AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Grenadier/Animation/Grenadier_Attack_Throw.Grenadier_Attack_Throw
+[2022.02.25-00.12.05:153][605]LogContentValidation: Display: Validating AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Alert_run.Charger_Alert_run
+[2022.02.25-00.12.05:153][605]LogContentValidation: Display: Validating AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Alert_Sprint.Charger_Alert_Sprint
+[2022.02.25-00.12.05:153][605]LogContentValidation: Display: Validating AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Alert_Ilde.Charger_Alert_Ilde
+[2022.02.25-00.12.05:153][605]LogContentValidation: Display: Validating AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Alert_Stunned.Charger_Alert_Stunned
+[2022.02.25-00.12.05:153][605]LogContentValidation: Display: Validating AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_KnockDown.Charger_KnockDown
+[2022.02.25-00.12.05:153][605]LogContentValidation: Display: Validating AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Alert_Attack_Close.Charger_Alert_Attack_Close
+[2022.02.25-00.12.05:153][605]LogContentValidation: Display: Validating AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Death.Charger_Death
+[2022.02.25-00.12.05:153][605]LogContentValidation: Display: Validating SkeletalMesh /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse_Melee/Corpse_Melee.Corpse_Melee
+[2022.02.25-00.12.05:153][605]LogContentValidation: Display: Validating AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Flinch_back.Charger_Flinch_back
+[2022.02.25-00.12.05:153][605]LogContentValidation: Display: Validating AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Alert_ChargeWall.Charger_Alert_ChargeWall
+[2022.02.25-00.12.05:153][605]LogContentValidation: Display: Validating AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Passive_Ilde.Charger_Passive_Ilde
+[2022.02.25-00.12.05:153][605]LogContentValidation: Display: Validating AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Passive_Walk.Charger_Passive_Walk
+[2022.02.25-00.12.05:153][605]LogContentValidation: Display: Validating SkeletalMesh /Game/CityofBrass_Enemies/Meshes/Enemy/Large_Sword/Large_Sword.Large_Sword
+[2022.02.25-00.12.05:153][605]LogContentValidation: Display: Validating SkeletalMesh /Game/CityofBrass_Enemies/Meshes/Enemy/Wizard/Wizard_Mesh.Wizard_Mesh
+[2022.02.25-00.12.05:153][605]LogContentValidation: Display: Validating ObjectRedirector /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse_Basic/Fez_Mesh.Fez_Mesh
+[2022.02.25-00.12.05:153][605]LogContentValidation: Display: Validating SkeletalMesh /Game/CityofBrass_Enemies/Meshes/Enemy/Large/Large_Mesh.Large_Mesh
+[2022.02.25-00.12.05:153][605]LogContentValidation: Display: Validating SkeletalMesh /Game/CityofBrass_Enemies/Meshes/Enemy/Charger/Charger.Charger
+[2022.02.25-00.12.05:153][605]LogContentValidation: Display: Validating SkeletalMesh /Game/CityofBrass_Enemies/Meshes/Enemy/Archer/Archer.Archer
+[2022.02.25-00.12.05:153][605]LogContentValidation: Display: Validating SkeletalMesh /Game/CityofBrass_Enemies/Meshes/Enemy/Hooker/Hooker_Boss_Mesh.Hooker_Boss_Mesh
+[2022.02.25-00.12.05:153][605]LogContentValidation: Display: Validating SkeletalMesh /Game/CityofBrass_Enemies/Meshes/Enemy/Grenadier/Grenadier_Mesh.Grenadier_Mesh
+[2022.02.25-00.12.05:153][605]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hour_of_Code/Widgets/W_HUD.W_HUD
+[2022.02.25-00.12.05:154][605]LogContentValidation: Display: Validating Texture2D /Game/LearningKit_Games/Assets/Characters/Enemies/Textures/T_key.T_key
+[2022.02.25-00.12.05:154][605]LogContentValidation: Display: Validating ObjectRedirector /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse_Basic/Corpse_Basic.Corpse_Basic
+[2022.02.25-00.12.05:154][605]LogContentValidation: Display: Validating Texture2D /Game/LearningKit_Games/Assets/Characters/Enemies/Textures/T_jumpBoost.T_jumpBoost
+[2022.02.25-00.12.05:154][605]LogContentValidation: Display: Validating PhysicsAsset /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse_Melee/Corpse_Melee_PhysicsAsset.Corpse_Melee_PhysicsAsset
+[2022.02.25-00.12.05:154][605]LogContentValidation: Display: Validating PhysicsAsset /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/Corpse_Sword_ShadowPhysics.Corpse_Sword_ShadowPhysics
+[2022.02.25-00.12.05:154][605]LogContentValidation: Display: Validating Skeleton /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/Corpse_Skeleton.Corpse_Skeleton
+[2022.02.25-00.12.05:154][605]LogContentValidation: Display: Validating SkeletalMesh /Game/CityofBrass_Enemies/Meshes/Enemy/Hooker/Hooker_Mesh.Hooker_Mesh
+[2022.02.25-00.12.05:154][605]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/CityofBrass_Enemies/Materials/Corpse_Body_Inst2.Corpse_Body_Inst2
+[2022.02.25-00.12.05:154][605]LogContentValidation: Display: Validating Texture2D /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/Corpse_Sword_Body_Low_green_OcclusionRoughnessMetallic.Corpse_Sword_Body_Low_green_OcclusionRoughnessMetallic
+[2022.02.25-00.12.05:154][605]LogContentValidation: Display: Validating SkeletalMesh /Game/CityofBrass_Enemies/Meshes/Enemy/Large_Charger/Large_Charger_Mesh.Large_Charger_Mesh
+[2022.02.25-00.12.05:154][605]LogContentValidation: Display: Validating ObjectRedirector /Game/CityofBrass_Enemies/Meshes/Enemy/Corpse_Melee/Corpse_Melee.Corpse_Melee
+[2022.02.25-00.12.05:154][605]LogContentValidation: Display: Validating Texture2D /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/Corpse_Sword_Body_Low_green_Normal.Corpse_Sword_Body_Low_green_Normal
+[2022.02.25-00.12.05:154][605]LogContentValidation: Display: Validating Texture2D /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/Corpse_Sword_Body_Low_green_BaseColor.Corpse_Sword_Body_Low_green_BaseColor
+[2022.02.25-00.12.05:154][605]LogContentValidation: Display: Validating SkeletalMesh /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse_Basic/Corpse_Basic.Corpse_Basic
+[2022.02.25-00.12.05:154][605]LogContentValidation: Display: Validating PhysicsAsset /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse/Corpse_Sword_PhysicsAsset.Corpse_Sword_PhysicsAsset
+[2022.02.25-00.12.11:230][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.02.25-00.12.11:233][299]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Hour_of_Code/Maps/LevelDesignLevel' took 0.024
+[2022.02.25-00.12.11:234][299]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CityofBrass_Enemies/Materials/Corpse_Fez_Inst] ([1] browsable assets)...
+[2022.02.25-00.12.11:242][299]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/CityofBrass_Enemies/Materials/Corpse_Fez_Inst.Corpse_Fez_Inst]
+[2022.02.25-00.12.11:242][299]OBJ SavePackage: Finished generating thumbnails for package [/Game/CityofBrass_Enemies/Materials/Corpse_Fez_Inst]
+[2022.02.25-00.12.11:250][299]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Corpse_Fez_Inst_Auto184DA1C8F42107608727C77A0A1FDAAEE.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Autosaves/Game/CityofBrass_Enemies/Materials/Corpse_Fez_Inst_Auto1.uasset'
+[2022.02.25-00.12.11:251][299]LogFileHelpers: Auto-saving content packages took 0.018
+[2022.02.25-00.13.00:192][244]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.02.25-00.13.18:570][244]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.02.25-00.13.18:576][244]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.02.25-00.13.18:588][244]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.02.25-00.13.30:346][650]LogContentBrowser: Attempting asset rename: NewBlueprint -> AI_Corpse_Melee
+[2022.02.25-00.13.30:351][650]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.02.25-00.13.34:886][186]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/LearningKit_Games/Assets/Characters/Enemies/Corpse_Melee/Corpse_Melee.Corpse_Melee
+[2022.02.25-00.13.34:890][186]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.25-00.13.37:784][409]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Aggro.Charger_Aggro
+[2022.02.25-00.13.37:788][409]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.25-00.13.38:094][409]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.02.25-00.13.49:052][244]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.25-00.13.52:168][443]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.13.52:169][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.13.56:457][779]LogSlate: Window 'Corpse_Alert_Attack_Basic02' being destroyed
+[2022.02.25-00.13.56:464][779]LogSlate: Window 'Corpse_Alert_Attack_Basic02' being destroyed
+[2022.02.25-00.13.56:465][779]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.13.56:465][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.13.56:526][779]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.13.56:526][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.13.56:539][779]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.13.56:539][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.13.56:590][779]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.13.56:590][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.14.03:002][528]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/Enemies/AI_Corpse_Melee.AI_Corpse_Melee
+[2022.02.25-00.14.18:983][548]LogSlate: Window 'AI_Corpse_Melee' being destroyed
+[2022.02.25-00.14.18:990][548]LogSlate: Window 'AI_Corpse_Melee' being destroyed
+[2022.02.25-00.14.19:044][548]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.14.19:044][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.14.21:118][787]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.02.25-00.14.22:350][787]LogSlate: Window 'Delete Assets' being destroyed
+[2022.02.25-00.14.22:409][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.02.25-00.14.31:474][807]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.02.25-00.14.32:552][891]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/Enemies/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2022.02.25-00.15.24:424][234]LogAnimation: Warning: AnimBP EpicCharacter_AnimBP_C is incompatible with skeleton Corpse_Skeleton, removing AnimBP from actor.
+[2022.02.25-00.15.24:425][234]LogAnimation: Warning: AnimBP EpicCharacter_AnimBP_C is incompatible with skeleton Corpse_Skeleton, removing AnimBP from actor.
+[2022.02.25-00.15.24:425][234]LogAnimation: Warning: AnimBP EpicCharacter_AnimBP_C is incompatible with skeleton Corpse_Skeleton, removing AnimBP from actor.
+[2022.02.25-00.15.36:524][254]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.02.25-00.15.36:548][254]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.02.25-00.15.47:464][ 90]LogEditorTransaction: Undo Edit Skeletal Mesh
+[2022.02.25-00.16.06:805][616]LogAnimation: Warning: AnimBP EpicCharacter_AnimBP_C is incompatible with skeleton Corpse_Skeleton, removing AnimBP from actor.
+[2022.02.25-00.16.06:806][616]LogAnimation: Warning: AnimBP EpicCharacter_AnimBP_C is incompatible with skeleton Corpse_Skeleton, removing AnimBP from actor.
+[2022.02.25-00.16.06:806][616]LogAnimation: Warning: AnimBP EpicCharacter_AnimBP_C is incompatible with skeleton Corpse_Skeleton, removing AnimBP from actor.
+[2022.02.25-00.16.34:111][506]LogContentBrowser: Attempting asset rename: BP_LearningKit_PlayerCharacter -> BP_Pursuer
+[2022.02.25-00.16.34:134][506]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.SKEL_BP_Pursuer_C' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/BP_LearningKit_PlayerCharacter.PackageMetaData'
+[2022.02.25-00.16.34:134][506]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.BP_Pursuer_C' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/BP_LearningKit_PlayerCharacter.PackageMetaData'
+[2022.02.25-00.16.34:134][506]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.BP_Pursuer_C:AnimBP_KnockDown' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/BP_LearningKit_PlayerCharacter.PackageMetaData'
+[2022.02.25-00.16.34:134][506]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.BP_Pursuer_C:ReceiveBeginPlay' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/BP_LearningKit_PlayerCharacter.PackageMetaData'
+[2022.02.25-00.16.34:134][506]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.BP_Pursuer_C:OnCompleted_9168EF6E40C932208CA36DAC1BC8E314' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/BP_LearningKit_PlayerCharacter.PackageMetaData'
+[2022.02.25-00.16.34:134][506]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.BP_Pursuer_C:OnBlendOut_9168EF6E40C932208CA36DAC1BC8E314' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/BP_LearningKit_PlayerCharacter.PackageMetaData'
+[2022.02.25-00.16.34:134][506]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.BP_Pursuer_C:OnInterrupted_9168EF6E40C932208CA36DAC1BC8E314' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/BP_LearningKit_PlayerCharacter.PackageMetaData'
+[2022.02.25-00.16.34:134][506]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.BP_Pursuer_C:OnNotifyBegin_9168EF6E40C932208CA36DAC1BC8E314' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/BP_LearningKit_PlayerCharacter.PackageMetaData'
+[2022.02.25-00.16.34:134][506]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.BP_Pursuer_C:OnNotifyEnd_9168EF6E40C932208CA36DAC1BC8E314' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/BP_LearningKit_PlayerCharacter.PackageMetaData'
+[2022.02.25-00.16.34:134][506]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.BP_Pursuer_C:OnCompleted_20B544304C2C8C90CFDFE28425EEE1D8' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/BP_LearningKit_PlayerCharacter.PackageMetaData'
+[2022.02.25-00.16.34:134][506]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.BP_Pursuer_C:OnBlendOut_20B544304C2C8C90CFDFE28425EEE1D8' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/BP_LearningKit_PlayerCharacter.PackageMetaData'
+[2022.02.25-00.16.34:134][506]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.BP_Pursuer_C:OnInterrupted_20B544304C2C8C90CFDFE28425EEE1D8' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/BP_LearningKit_PlayerCharacter.PackageMetaData'
+[2022.02.25-00.16.34:134][506]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.BP_Pursuer_C:OnNotifyBegin_20B544304C2C8C90CFDFE28425EEE1D8' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/BP_LearningKit_PlayerCharacter.PackageMetaData'
+[2022.02.25-00.16.34:134][506]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.BP_Pursuer_C:OnNotifyEnd_20B544304C2C8C90CFDFE28425EEE1D8' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/BP_LearningKit_PlayerCharacter.PackageMetaData'
+[2022.02.25-00.16.34:134][506]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.SKEL_BP_Pursuer_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_40' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/BP_LearningKit_PlayerCharacter.PackageMetaData'
+[2022.02.25-00.16.34:134][506]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.SKEL_BP_Pursuer_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/BP_LearningKit_PlayerCharacter.PackageMetaData'
+[2022.02.25-00.16.34:134][506]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.SKEL_BP_Pursuer_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/BP_LearningKit_PlayerCharacter.PackageMetaData'
+[2022.02.25-00.16.34:134][506]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.SKEL_BP_Pursuer_C:InpAxisEvt_TurnRight_K2Node_InputAxisEvent_1' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/BP_LearningKit_PlayerCharacter.PackageMetaData'
+[2022.02.25-00.16.34:134][506]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.SKEL_BP_Pursuer_C:ReceiveBeginPlay' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/BP_LearningKit_PlayerCharacter.PackageMetaData'
+[2022.02.25-00.16.34:134][506]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.SKEL_BP_Pursuer_C:UserConstructionScript' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/BP_LearningKit_PlayerCharacter.PackageMetaData'
+[2022.02.25-00.16.34:134][506]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.SKEL_BP_Pursuer_C:AnimBP_KnockDown' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/BP_LearningKit_PlayerCharacter.PackageMetaData'
+[2022.02.25-00.16.34:227][506]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/BP_PursuerD135398F45809C0CD7EE9B82F8B4CF72.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.uasset'
+[2022.02.25-00.16.34:311][506]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2022.02.25-00.16.34:345][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.02.25-00.16.34:366][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.02.25-00.16.34:406][506]AssetCheck: New page: Asset Save: BP_Pursuer
+[2022.02.25-00.16.34:406][506]LogContentValidation: Display: Validating Blueprint /Game/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.BP_Pursuer
+[2022.02.25-00.17.05:002][802]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2022.02.25-00.17.20:550][ 78]LogSlate: Window 'BP_LearningKit_PlayerCharacter' being destroyed
+[2022.02.25-00.17.20:552][ 78]LogSlate: Window 'BP_LearningKit_PlayerCharacter' being destroyed
+[2022.02.25-00.17.20:583][ 78]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.17.20:583][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.17.20:648][ 78]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.02.25-00.17.20:648][ 78]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.17.20:648][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.17.21:434][126]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/LearningKit_Games/Assets/Characters/Character/Animations/epicCharacter_AnimBP.EpicCharacter_AnimBP
+[2022.02.25-00.17.21:442][126]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.25-00.19.19:596][500]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.02.25-00.19.19:619][500]LogContentBrowser: Creating deferred item: NewFolder
+[2022.02.25-00.19.22:327][759]LogContentBrowser: Attempting asset rename: NewFolder -> Pursuer
+[2022.02.25-00.19.22:328][759]LogContentBrowser: End creating deferred item NewFolder
+[2022.02.25-00.19.26:232][110]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_Pursuer.BP_Pursuer_C' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.PackageMetaData'
+[2022.02.25-00.19.26:232][110]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_Pursuer.BP_Pursuer_C:OnNotifyEnd_20B544304C2C8C90CFDFE28425EEE1D8' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.PackageMetaData'
+[2022.02.25-00.19.26:232][110]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_Pursuer.BP_Pursuer_C:OnNotifyBegin_20B544304C2C8C90CFDFE28425EEE1D8' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.PackageMetaData'
+[2022.02.25-00.19.26:232][110]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_Pursuer.BP_Pursuer_C:OnInterrupted_20B544304C2C8C90CFDFE28425EEE1D8' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.PackageMetaData'
+[2022.02.25-00.19.26:232][110]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_Pursuer.BP_Pursuer_C:OnBlendOut_20B544304C2C8C90CFDFE28425EEE1D8' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.PackageMetaData'
+[2022.02.25-00.19.26:232][110]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_Pursuer.BP_Pursuer_C:OnCompleted_20B544304C2C8C90CFDFE28425EEE1D8' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.PackageMetaData'
+[2022.02.25-00.19.26:232][110]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_Pursuer.BP_Pursuer_C:OnNotifyEnd_9168EF6E40C932208CA36DAC1BC8E314' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.PackageMetaData'
+[2022.02.25-00.19.26:233][110]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_Pursuer.BP_Pursuer_C:OnNotifyBegin_9168EF6E40C932208CA36DAC1BC8E314' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.PackageMetaData'
+[2022.02.25-00.19.26:233][110]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_Pursuer.BP_Pursuer_C:OnInterrupted_9168EF6E40C932208CA36DAC1BC8E314' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.PackageMetaData'
+[2022.02.25-00.19.26:233][110]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_Pursuer.BP_Pursuer_C:OnBlendOut_9168EF6E40C932208CA36DAC1BC8E314' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.PackageMetaData'
+[2022.02.25-00.19.26:233][110]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_Pursuer.BP_Pursuer_C:OnCompleted_9168EF6E40C932208CA36DAC1BC8E314' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.PackageMetaData'
+[2022.02.25-00.19.26:233][110]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_Pursuer.BP_Pursuer_C:ReceiveBeginPlay' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.PackageMetaData'
+[2022.02.25-00.19.26:233][110]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_Pursuer.BP_Pursuer_C:AnimBP_KnockDown' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.PackageMetaData'
+[2022.02.25-00.19.26:233][110]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_Pursuer.SKEL_BP_Pursuer_C' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.PackageMetaData'
+[2022.02.25-00.19.26:233][110]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_Pursuer.SKEL_BP_Pursuer_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_40' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.PackageMetaData'
+[2022.02.25-00.19.26:233][110]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_Pursuer.SKEL_BP_Pursuer_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.PackageMetaData'
+[2022.02.25-00.19.26:233][110]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_Pursuer.SKEL_BP_Pursuer_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.PackageMetaData'
+[2022.02.25-00.19.26:233][110]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_Pursuer.SKEL_BP_Pursuer_C:InpAxisEvt_TurnRight_K2Node_InputAxisEvent_1' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.PackageMetaData'
+[2022.02.25-00.19.26:233][110]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_Pursuer.SKEL_BP_Pursuer_C:ReceiveBeginPlay' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.PackageMetaData'
+[2022.02.25-00.19.26:233][110]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_Pursuer.SKEL_BP_Pursuer_C:UserConstructionScript' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.PackageMetaData'
+[2022.02.25-00.19.26:233][110]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_Pursuer.SKEL_BP_Pursuer_C:AnimBP_KnockDown' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.PackageMetaData'
+[2022.02.25-00.19.26:318][110]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/BP_Pursuer2497D2814DDE5F098C34AB881F534BD7.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_Pursuer.uasset'
+[2022.02.25-00.19.26:394][110]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.02.25-00.19.26:427][110]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.02.25-00.19.26:448][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.02.25-00.19.26:521][110]AssetCheck: New page: Asset Save: BP_Pursuer
+[2022.02.25-00.19.26:521][110]LogContentValidation: Display: Validating Blueprint /Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_Pursuer.BP_Pursuer
+[2022.02.25-00.19.31:556][306]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.02.25-00.19.45:698][444]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.02.25-00.19.56:248][366]LogContentBrowser: Attempting asset rename: EpicCharacter_AnimBP -> Pursuer_AnimBP
+[2022.02.25-00.19.56:267][366]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/Pursuer_AnimBP.SKEL_Pursuer_AnimBP_C' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/EpicCharacter_AnimBP.PackageMetaData'
+[2022.02.25-00.19.56:267][366]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/Pursuer_AnimBP.Pursuer_AnimBP_C' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/EpicCharacter_AnimBP.PackageMetaData'
+[2022.02.25-00.19.56:267][366]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/Pursuer_AnimBP.SKEL_Pursuer_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/EpicCharacter_AnimBP.PackageMetaData'
+[2022.02.25-00.19.56:267][366]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/Pursuer_AnimBP.SKEL_Pursuer_AnimBP_C:AnimGraph' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/EpicCharacter_AnimBP.PackageMetaData'
+[2022.02.25-00.19.56:267][366]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/Pursuer_AnimBP.Pursuer_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/EpicCharacter_AnimBP.PackageMetaData'
+[2022.02.25-00.19.56:267][366]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/Pursuer_AnimBP.Pursuer_AnimBP_C:AnimGraph' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/EpicCharacter_AnimBP.PackageMetaData'
+[2022.02.25-00.19.56:449][366]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Pursuer_AnimBPFB1BE8E04A8BB1C29D0BC9859B4FF381.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Blueprints/Enemies/Pursuer/Pursuer_AnimBP.uasset'
+[2022.02.25-00.19.56:524][366]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.02.25-00.19.56:554][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.02.25-00.19.56:574][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.02.25-00.19.56:648][366]AssetCheck: New page: Asset Save: Pursuer_AnimBP
+[2022.02.25-00.19.56:648][366]LogContentValidation: Display: Validating AnimBlueprint /Game/LearningKit_Games/Blueprints/Enemies/Pursuer/Pursuer_AnimBP.Pursuer_AnimBP
+[2022.02.25-00.19.57:901][474]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/LearningKit_Games/Blueprints/Enemies/Pursuer/Pursuer_AnimBP.Pursuer_AnimBP
+[2022.02.25-00.19.57:906][474]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.25-00.20.00:392][597]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.20.00:392][597]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.20.00:400][597]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.20.00:400][597]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.20.00:491][597]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.20.00:491][597]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.20.29:064][608]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Skeleton.SK_EpicCharacter_Skeleton
+[2022.02.25-00.20.29:068][608]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_53:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.25-00.20.36:433][349]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_Pursuer.BP_Pursuer
+[2022.02.25-00.20.58:586][345]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.02.25-00.20.58:610][345]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.02.25-00.21.09:921][288]BlueprintLog: New page: Compile BP_Pursuer
+[2022.02.25-00.21.10:000][288]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2022.02.25-00.21.10:088][288]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/BP_Pursuer254A2E414F1C953768F0BEB304FE0E8B.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_Pursuer.uasset'
+[2022.02.25-00.21.10:104][288]AssetCheck: New page: Asset Save: BP_Pursuer
+[2022.02.25-00.21.10:104][288]LogContentValidation: Display: Validating Blueprint /Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_Pursuer.BP_Pursuer
+[2022.02.25-00.21.16:117][874]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.21.16:117][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.21.33:534][ 95]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.02.25-00.21.46:464][938]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Skeleton.SK_EpicCharacter_Skeleton
+[2022.02.25-00.21.46:468][938]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.25-00.21.47:746][ 30]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/LearningKit_Games/Assets/Characters/Character/Animations/epicCharacter_CrouchWalk_2D.EpicCharacter_CrouchWalk_2D
+[2022.02.25-00.21.47:750][ 30]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_56:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.25-00.21.48:041][ 30]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.02.25-00.21.49:113][116]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter.SK_EpicCharacter
+[2022.02.25-00.21.49:116][116]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.25-00.22.50:777][259]LogSlate: Window 'SK_EpicCharacter' being destroyed
+[2022.02.25-00.22.50:785][259]LogSlate: Window 'SK_EpicCharacter' being destroyed
+[2022.02.25-00.22.50:792][259]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.22.50:792][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.22.50:800][259]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.22.50:800][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.22.50:889][259]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.22.50:889][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.22.50:908][259]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.22.50:908][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.22.50:969][259]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.22.50:969][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.22.51:023][259]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.22.51:023][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.22.51:074][259]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.22.51:074][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.22.51:090][259]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.22.51:090][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.22.55:465][678]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/LearningKit_Games/Blueprints/Enemies/Pursuer/Pursuer_AnimBP.Pursuer_AnimBP
+[2022.02.25-00.22.55:470][678]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.25-00.22.56:149][678]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.02.25-00.23.14:673][844]LogSlate: Window 'Pursuer_AnimBP' being destroyed
+[2022.02.25-00.23.14:681][844]LogSlate: Window 'Pursuer_AnimBP' being destroyed
+[2022.02.25-00.23.14:686][844]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.23.14:686][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.23.14:694][844]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.23.14:695][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.23.14:779][844]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.23.14:779][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.23.17:251][130]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.02.25-00.23.20:347][130]LogSlate: Window 'Delete Assets' being destroyed
+[2022.02.25-00.23.20:427][130]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/LearningKit_Games/Blueprints/Enemies/Pursuer/Pursuer_AnimBP.Pursuer_AnimBP
+[2022.02.25-00.23.21:694][130]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.02.25-00.23.21:716][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.02.25-00.23.21:734][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.02.25-00.23.30:221][ 80]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.02.25-00.23.30:224][ 80]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.02.25-00.23.30:245][ 80]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2022.02.25-00.23.45:515][ 80]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2022.02.25-00.23.45:522][ 80]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2022.02.25-00.23.45:535][ 80]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2022.02.25-00.23.48:561][417]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1563)].
+[2022.02.25-00.23.48:561][417]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> B
+[2022.02.25-00.23.48:566][417]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2022.02.25-00.23.48:596][417]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.02.25-00.23.48:601][417]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Hour_of_Code/Maps/LevelDesignLevel' took 0.026
+[2022.02.25-00.23.48:602][417]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_Pursuer] ([2] browsable assets)...
+[2022.02.25-00.23.48:602][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_Pursuer]
+[2022.02.25-00.23.48:643][417]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/BP_Pursuer_Auto29815206D4FF3334C584BD6B8D0FDCEC9.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Autosaves/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_Pursuer_Auto2.uasset'
+[2022.02.25-00.23.48:644][417]LogFileHelpers: Auto-saving content packages took 0.043
+[2022.02.25-00.24.00:688][825]LogContentBrowser: Attempting asset rename: B -> BP_AnimPursuer
+[2022.02.25-00.24.00:713][825]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_AnimPursuer.BP_AnimPursuer:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/B.PackageMetaData'
+[2022.02.25-00.24.00:713][825]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_AnimPursuer.SKEL_BP_AnimPursuer_C:AnimGraph' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/B.PackageMetaData'
+[2022.02.25-00.24.00:713][825]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_AnimPursuer.SKEL_BP_AnimPursuer_C' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/B.PackageMetaData'
+[2022.02.25-00.24.00:713][825]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_AnimPursuer.BP_AnimPursuer_C:AnimGraph' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/B.PackageMetaData'
+[2022.02.25-00.24.00:713][825]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_AnimPursuer.BP_AnimPursuer_C' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/B.PackageMetaData'
+[2022.02.25-00.24.00:713][825]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_AnimPursuer.BP_AnimPursuer:EventGraph.K2Node_Event_0' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/B.PackageMetaData'
+[2022.02.25-00.24.00:713][825]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_AnimPursuer.BP_AnimPursuer:EventGraph.K2Node_CallFunction_0' ref from Metadata '/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/B.PackageMetaData'
+[2022.02.25-00.24.00:751][825]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/BP_AnimPursuerCFD35E654E83FD366652FC9B97E3216E.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_AnimPursuer.uasset'
+[2022.02.25-00.24.00:832][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.02.25-00.24.00:860][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.02.25-00.24.00:878][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.02.25-00.24.00:916][825]AssetCheck: New page: Asset Save: BP_AnimPursuer
+[2022.02.25-00.24.00:916][825]LogContentValidation: Display: Validating AnimBlueprint /Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_AnimPursuer.BP_AnimPursuer
+[2022.02.25-00.24.02:415][986]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_AnimPursuer.BP_AnimPursuer
+[2022.02.25-00.24.02:422][986]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_65:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.25-00.24.03:094][986]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.02.25-00.28.18:263][668]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2022.02.25-00.28.22:689][953]LogSlate: Window 'BP_LearningKit_PlayerCharacter' being destroyed
+[2022.02.25-00.28.22:698][953]LogSlate: Window 'BP_LearningKit_PlayerCharacter' being destroyed
+[2022.02.25-00.28.22:706][953]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.28.22:706][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.28.22:714][953]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.28.22:714][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.28.22:803][953]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.28.22:803][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.28.22:821][953]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.28.22:821][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.28.40:130][681]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/LearningKit_Games/Assets/Characters/Character/Animations/epicCharacter_AnimBP.EpicCharacter_AnimBP
+[2022.02.25-00.28.40:136][681]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_69:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.25-00.28.40:855][681]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.02.25-00.29.33:046][632]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_Pursuer.BP_Pursuer
+[2022.02.25-00.29.35:837][846]LogSlate: Window 'BP_Pursuer' being destroyed
+[2022.02.25-00.29.35:846][846]LogSlate: Window 'BP_Pursuer' being destroyed
+[2022.02.25-00.29.35:850][846]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.29.35:850][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.29.35:859][846]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.29.35:859][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.29.35:949][846]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.29.35:949][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.29.35:969][846]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.29.35:969][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.29.37:894][ 61]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_AnimPursuer.BP_AnimPursuer
+[2022.02.25-00.29.37:900][ 61]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_73:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.25-00.29.38:572][ 61]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.02.25-00.32.59:895][428]BlueprintLog: New page: Compile BP_AnimPursuer
+[2022.02.25-00.32.59:900][428]LogBlueprint: Error: [AssetLog] C:\Users\mc52\Documents\GitHub\CS498GD-LevelDesign\LevelDesign\Content\LearningKit_Games\Blueprints\Enemies\Pursuer\BP_AnimPursuer.uasset: [Compiler] This blueprint (self) is not a Actor, therefore ' Target ' must have a connection.
+[2022.02.25-00.32.59:954][428]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2022.02.25-00.33.00:023][428]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/BP_AnimPursuer80422BF444D40958486B3FA7E05D459F.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_AnimPursuer.uasset'
+[2022.02.25-00.33.00:047][428]AssetCheck: New page: Asset Save: BP_AnimPursuer
+[2022.02.25-00.33.00:047][428]LogContentValidation: Display: Validating AnimBlueprint /Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_AnimPursuer.BP_AnimPursuer
+[2022.02.25-00.33.19:229][965]BlueprintLog: New page: Compile BP_AnimPursuer
+[2022.02.25-00.33.19:269][965]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.02.25-00.33.19:318][965]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/BP_AnimPursuerBF6B74684D1DA235D64EF0B1A0296836.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_AnimPursuer.uasset'
+[2022.02.25-00.33.19:334][965]AssetCheck: New page: Asset Save: BP_AnimPursuer
+[2022.02.25-00.33.19:334][965]LogContentValidation: Display: Validating AnimBlueprint /Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_AnimPursuer.BP_AnimPursuer
+[2022.02.25-00.33.58:565][401]BlueprintLog: New page: Compile BP_AnimPursuer
+[2022.02.25-00.33.58:567][401]LogBlueprint: Warning: [AssetLog] C:\Users\mc52\Documents\GitHub\CS498GD-LevelDesign\LevelDesign\Content\LearningKit_Games\Blueprints\Enemies\Pursuer\BP_AnimPursuer.uasset: [Compiler] Entry node  Locomotion  is not connected to state
+[2022.02.25-00.33.58:567][401]LogBlueprint: Warning: [AssetLog] C:\Users\mc52\Documents\GitHub\CS498GD-LevelDesign\LevelDesign\Content\LearningKit_Games\Blueprints\Enemies\Pursuer\BP_AnimPursuer.uasset: [Compiler] There was no entry state connection in  Locomotion
+[2022.02.25-00.33.58:608][401]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2022.02.25-00.33.58:653][401]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/BP_AnimPursuerF9EF9ECB4A92462A264AA29DF5009FFF.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_AnimPursuer.uasset'
+[2022.02.25-00.33.58:676][401]AssetCheck: New page: Asset Save: BP_AnimPursuer
+[2022.02.25-00.33.58:676][401]LogContentValidation: Display: Validating AnimBlueprint /Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_AnimPursuer.BP_AnimPursuer
+[2022.02.25-00.35.25:389][445]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.02.25-00.35.25:395][445]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Hour_of_Code/Maps/LevelDesignLevel' took 0.032
+[2022.02.25-00.35.25:396][445]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_Pursuer] ([2] browsable assets)...
+[2022.02.25-00.35.25:405][445]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_Pursuer.BP_Pursuer]
+[2022.02.25-00.35.25:406][445]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_Pursuer]
+[2022.02.25-00.35.25:452][445]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/BP_Pursuer_Auto3353AC11B438EF699547AA6B03B417026.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Autosaves/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_Pursuer_Auto3.uasset'
+[2022.02.25-00.35.25:453][445]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_AnimPursuer] ([2] browsable assets)...
+[2022.02.25-00.35.25:461][445]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_AnimPursuer.BP_AnimPursuer]
+[2022.02.25-00.35.25:461][445]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_AnimPursuer]
+[2022.02.25-00.35.25:482][445]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/BP_AnimPursuer_Auto36D6D3F8F42F86E082134E2ADA5D9B8CB.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/Autosaves/Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_AnimPursuer_Auto3.uasset'
+[2022.02.25-00.35.25:483][445]LogFileHelpers: Auto-saving content packages took 0.088
+[2022.02.25-00.38.21:539][144]BlueprintLog: New page: Compile BP_AnimPursuer
+[2022.02.25-00.38.21:543][144]LogBlueprint: Warning: [AssetLog] C:\Users\mc52\Documents\GitHub\CS498GD-LevelDesign\LevelDesign\Content\LearningKit_Games\Blueprints\Enemies\Pursuer\BP_AnimPursuer.uasset: [Compiler] Idle to Walk  will never be taken, please connect something to  Can Enter Transition
+[2022.02.25-00.38.21:543][144]LogBlueprint: Warning: [AssetLog] C:\Users\mc52\Documents\GitHub\CS498GD-LevelDesign\LevelDesign\Content\LearningKit_Games\Blueprints\Enemies\Pursuer\BP_AnimPursuer.uasset: [Compiler] Walk to Idle  will never be taken, please connect something to  Can Enter Transition
+[2022.02.25-00.38.21:543][144]LogBlueprint: Warning: [AssetLog] C:\Users\mc52\Documents\GitHub\CS498GD-LevelDesign\LevelDesign\Content\LearningKit_Games\Blueprints\Enemies\Pursuer\BP_AnimPursuer.uasset: [Compiler] Idle to Attack  will never be taken, please connect something to  Can Enter Transition
+[2022.02.25-00.38.21:543][144]LogBlueprint: Warning: [AssetLog] C:\Users\mc52\Documents\GitHub\CS498GD-LevelDesign\LevelDesign\Content\LearningKit_Games\Blueprints\Enemies\Pursuer\BP_AnimPursuer.uasset: [Compiler] Attack to Idle  will never be taken, please connect something to  Can Enter Transition
+[2022.02.25-00.38.21:586][144]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2022.02.25-00.38.21:664][144]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/BP_AnimPursuerB1E98DB147581AE9C172A48AF6C2E2CA.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_AnimPursuer.uasset'
+[2022.02.25-00.38.21:687][144]AssetCheck: New page: Asset Save: BP_AnimPursuer
+[2022.02.25-00.38.21:687][144]LogContentValidation: Display: Validating AnimBlueprint /Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_AnimPursuer.BP_AnimPursuer
+[2022.02.25-00.39.20:977][447]BlueprintLog: New page: Compile BP_AnimPursuer
+[2022.02.25-00.39.20:981][447]LogBlueprint: Warning: [AssetLog] C:\Users\mc52\Documents\GitHub\CS498GD-LevelDesign\LevelDesign\Content\LearningKit_Games\Blueprints\Enemies\Pursuer\BP_AnimPursuer.uasset: [Compiler] Idle to Walk  will never be taken, please connect something to  Can Enter Transition
+[2022.02.25-00.39.20:981][447]LogBlueprint: Warning: [AssetLog] C:\Users\mc52\Documents\GitHub\CS498GD-LevelDesign\LevelDesign\Content\LearningKit_Games\Blueprints\Enemies\Pursuer\BP_AnimPursuer.uasset: [Compiler] Walk to Idle  will never be taken, please connect something to  Can Enter Transition
+[2022.02.25-00.39.20:982][447]LogBlueprint: Warning: [AssetLog] C:\Users\mc52\Documents\GitHub\CS498GD-LevelDesign\LevelDesign\Content\LearningKit_Games\Blueprints\Enemies\Pursuer\BP_AnimPursuer.uasset: [Compiler] Idle to Attack  will never be taken, please connect something to  Can Enter Transition
+[2022.02.25-00.39.20:982][447]LogBlueprint: Warning: [AssetLog] C:\Users\mc52\Documents\GitHub\CS498GD-LevelDesign\LevelDesign\Content\LearningKit_Games\Blueprints\Enemies\Pursuer\BP_AnimPursuer.uasset: [Compiler] Attack to Idle  will never be taken, please connect something to  Can Enter Transition
+[2022.02.25-00.39.21:023][447]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2022.02.25-00.39.21:099][447]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/BP_AnimPursuerABC0EC9C456FFFFE8DD8BE825E6EBBCF.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_AnimPursuer.uasset'
+[2022.02.25-00.39.21:122][447]AssetCheck: New page: Asset Save: BP_AnimPursuer
+[2022.02.25-00.39.21:122][447]LogContentValidation: Display: Validating AnimBlueprint /Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_AnimPursuer.BP_AnimPursuer
+[2022.02.25-00.40.43:525][714]BlueprintLog: New page: Compile BP_AnimPursuer
+[2022.02.25-00.40.43:529][714]LogBlueprint: Warning: [AssetLog] C:\Users\mc52\Documents\GitHub\CS498GD-LevelDesign\LevelDesign\Content\LearningKit_Games\Blueprints\Enemies\Pursuer\BP_AnimPursuer.uasset: [Compiler] Idle to Walk  will never be taken, please connect something to  Can Enter Transition
+[2022.02.25-00.40.43:529][714]LogBlueprint: Warning: [AssetLog] C:\Users\mc52\Documents\GitHub\CS498GD-LevelDesign\LevelDesign\Content\LearningKit_Games\Blueprints\Enemies\Pursuer\BP_AnimPursuer.uasset: [Compiler] Walk to Idle  will never be taken, please connect something to  Can Enter Transition
+[2022.02.25-00.40.43:530][714]LogBlueprint: Warning: [AssetLog] C:\Users\mc52\Documents\GitHub\CS498GD-LevelDesign\LevelDesign\Content\LearningKit_Games\Blueprints\Enemies\Pursuer\BP_AnimPursuer.uasset: [Compiler] Idle to Attack  will never be taken, please connect something to  Can Enter Transition
+[2022.02.25-00.40.43:530][714]LogBlueprint: Warning: [AssetLog] C:\Users\mc52\Documents\GitHub\CS498GD-LevelDesign\LevelDesign\Content\LearningKit_Games\Blueprints\Enemies\Pursuer\BP_AnimPursuer.uasset: [Compiler] Attack to Idle  will never be taken, please connect something to  Can Enter Transition
+[2022.02.25-00.40.43:569][714]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.02.25-00.40.43:650][714]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/BP_AnimPursuer2B68636D4F03FFB6A64207A6E7A7621F.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_AnimPursuer.uasset'
+[2022.02.25-00.40.43:673][714]AssetCheck: New page: Asset Save: BP_AnimPursuer
+[2022.02.25-00.40.43:674][714]LogContentValidation: Display: Validating AnimBlueprint /Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_AnimPursuer.BP_AnimPursuer
+[2022.02.25-00.43.39:627][292]BlueprintLog: New page: Compile BP_AnimPursuer
+[2022.02.25-00.43.39:631][292]LogBlueprint: Warning: [AssetLog] C:\Users\mc52\Documents\GitHub\CS498GD-LevelDesign\LevelDesign\Content\LearningKit_Games\Blueprints\Enemies\Pursuer\BP_AnimPursuer.uasset: [Compiler] Walk to Idle  will never be taken, please connect something to  Can Enter Transition
+[2022.02.25-00.43.39:632][292]LogBlueprint: Warning: [AssetLog] C:\Users\mc52\Documents\GitHub\CS498GD-LevelDesign\LevelDesign\Content\LearningKit_Games\Blueprints\Enemies\Pursuer\BP_AnimPursuer.uasset: [Compiler] Idle to Attack  will never be taken, please connect something to  Can Enter Transition
+[2022.02.25-00.43.39:632][292]LogBlueprint: Warning: [AssetLog] C:\Users\mc52\Documents\GitHub\CS498GD-LevelDesign\LevelDesign\Content\LearningKit_Games\Blueprints\Enemies\Pursuer\BP_AnimPursuer.uasset: [Compiler] Attack to Idle  will never be taken, please connect something to  Can Enter Transition
+[2022.02.25-00.43.39:674][292]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.02.25-00.43.39:749][292]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/BP_AnimPursuerBB0A26C5490EF6CC767EBDB03AABC62D.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_AnimPursuer.uasset'
+[2022.02.25-00.43.39:773][292]AssetCheck: New page: Asset Save: BP_AnimPursuer
+[2022.02.25-00.43.39:773][292]LogContentValidation: Display: Validating AnimBlueprint /Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_AnimPursuer.BP_AnimPursuer
+[2022.02.25-00.44.22:964][ 16]BlueprintLog: New page: Compile BP_AnimPursuer
+[2022.02.25-00.44.22:968][ 16]LogBlueprint: Warning: [AssetLog] C:\Users\mc52\Documents\GitHub\CS498GD-LevelDesign\LevelDesign\Content\LearningKit_Games\Blueprints\Enemies\Pursuer\BP_AnimPursuer.uasset: [Compiler] Idle to Attack  will never be taken, please connect something to  Can Enter Transition
+[2022.02.25-00.44.22:968][ 16]LogBlueprint: Warning: [AssetLog] C:\Users\mc52\Documents\GitHub\CS498GD-LevelDesign\LevelDesign\Content\LearningKit_Games\Blueprints\Enemies\Pursuer\BP_AnimPursuer.uasset: [Compiler] Attack to Idle  will never be taken, please connect something to  Can Enter Transition
+[2022.02.25-00.44.23:011][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.02.25-00.44.23:083][ 16]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/BP_AnimPursuerE9B549E946415623884B1A962656B83D.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_AnimPursuer.uasset'
+[2022.02.25-00.44.23:107][ 16]AssetCheck: New page: Asset Save: BP_AnimPursuer
+[2022.02.25-00.44.23:107][ 16]LogContentValidation: Display: Validating AnimBlueprint /Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_AnimPursuer.BP_AnimPursuer
+[2022.02.25-00.46.09:941][779]BlueprintLog: New page: Compile BP_AnimPursuer
+[2022.02.25-00.46.09:946][779]LogBlueprint: Warning: [AssetLog] C:\Users\mc52\Documents\GitHub\CS498GD-LevelDesign\LevelDesign\Content\LearningKit_Games\Blueprints\Enemies\Pursuer\BP_AnimPursuer.uasset: [Compiler] Idle to Attack  will never be taken, please connect something to  Can Enter Transition
+[2022.02.25-00.46.09:946][779]LogBlueprint: Warning: [AssetLog] C:\Users\mc52\Documents\GitHub\CS498GD-LevelDesign\LevelDesign\Content\LearningKit_Games\Blueprints\Enemies\Pursuer\BP_AnimPursuer.uasset: [Compiler] Attack to Idle  will never be taken, please connect something to  Can Enter Transition
+[2022.02.25-00.46.09:989][779]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2022.02.25-00.46.10:066][779]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/BP_AnimPursuer3BC3E5C8499514BEEF2C7880D66A0E1C.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_AnimPursuer.uasset'
+[2022.02.25-00.46.10:090][779]AssetCheck: New page: Asset Save: BP_AnimPursuer
+[2022.02.25-00.46.10:090][779]LogContentValidation: Display: Validating AnimBlueprint /Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_AnimPursuer.BP_AnimPursuer
+[2022.02.25-00.46.17:888][377]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_Pursuer.BP_Pursuer
+[2022.02.25-00.46.27:449][987]LogSlate: Window 'Delete Variable' being destroyed
+[2022.02.25-00.46.42:192][367]BlueprintLog: New page: Compile BP_Pursuer
+[2022.02.25-00.46.42:251][367]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.02.25-00.46.42:343][367]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/BP_Pursuer345BD3A048E7A1D446968CB75A90F0CB.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_Pursuer.uasset'
+[2022.02.25-00.46.42:358][367]AssetCheck: New page: Asset Save: BP_Pursuer
+[2022.02.25-00.46.42:358][367]LogContentValidation: Display: Validating Blueprint /Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_Pursuer.BP_Pursuer
+[2022.02.25-00.47.15:495][909]BlueprintLog: New page: Compile BP_AnimPursuer
+[2022.02.25-00.47.15:500][909]LogBlueprint: Warning: [AssetLog] C:\Users\mc52\Documents\GitHub\CS498GD-LevelDesign\LevelDesign\Content\LearningKit_Games\Blueprints\Enemies\Pursuer\BP_AnimPursuer.uasset: [Compiler] Idle to Attack  will never be taken, please connect something to  Can Enter Transition
+[2022.02.25-00.47.15:500][909]LogBlueprint: Warning: [AssetLog] C:\Users\mc52\Documents\GitHub\CS498GD-LevelDesign\LevelDesign\Content\LearningKit_Games\Blueprints\Enemies\Pursuer\BP_AnimPursuer.uasset: [Compiler] Attack to Idle  will never be taken, please connect something to  Can Enter Transition
+[2022.02.25-00.47.15:546][909]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.02.25-00.47.15:618][909]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/BP_AnimPursuer717C167944B124F134CE50B7E242E2F6.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_AnimPursuer.uasset'
+[2022.02.25-00.47.15:642][909]AssetCheck: New page: Asset Save: BP_AnimPursuer
+[2022.02.25-00.47.15:642][909]LogContentValidation: Display: Validating AnimBlueprint /Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_AnimPursuer.BP_AnimPursuer
+[2022.02.25-00.47.37:588][754]BlueprintLog: New page: Compile BP_AnimPursuer
+[2022.02.25-00.47.37:593][754]LogBlueprint: Warning: [AssetLog] C:\Users\mc52\Documents\GitHub\CS498GD-LevelDesign\LevelDesign\Content\LearningKit_Games\Blueprints\Enemies\Pursuer\BP_AnimPursuer.uasset: [Compiler] Attack to Idle  will never be taken, please connect something to  Can Enter Transition
+[2022.02.25-00.47.37:641][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.02.25-00.47.37:720][754]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/BP_AnimPursuerC680539F4C5537D3821519AE9D073097.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_AnimPursuer.uasset'
+[2022.02.25-00.47.37:744][754]AssetCheck: New page: Asset Save: BP_AnimPursuer
+[2022.02.25-00.47.37:744][754]LogContentValidation: Display: Validating AnimBlueprint /Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_AnimPursuer.BP_AnimPursuer
+[2022.02.25-00.48.23:272][ 37]BlueprintLog: New page: Compile BP_AnimPursuer
+[2022.02.25-00.48.23:325][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.02.25-00.48.23:403][ 37]LogSavePackage: Moving '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Saved/BP_AnimPursuer46B6803E4CD071662234B6A932E85AFA.tmp' to '../../../../../../Users/mc52/Documents/GitHub/CS498GD-LevelDesign/LevelDesign/Content/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_AnimPursuer.uasset'
+[2022.02.25-00.48.23:418][ 37]AssetCheck: New page: Asset Save: BP_AnimPursuer
+[2022.02.25-00.48.23:418][ 37]LogContentValidation: Display: Validating AnimBlueprint /Game/LearningKit_Games/Blueprints/Enemies/Pursuer/BP_AnimPursuer.BP_AnimPursuer
+[2022.02.25-00.48.31:765][716]LogSlate: Window 'BP_Pursuer' being destroyed
+[2022.02.25-00.48.31:772][716]LogSlate: Window 'BP_Pursuer' being destroyed
+[2022.02.25-00.48.31:780][716]LogWorld: UWorld::CleanupWorld for World_73, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.48.31:780][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.48.31:789][716]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.48.31:789][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.48.31:879][716]LogWorld: UWorld::CleanupWorld for World_74, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.48.31:879][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-00.48.31:901][716]LogWorld: UWorld::CleanupWorld for World_75, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-00.48.31:901][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
