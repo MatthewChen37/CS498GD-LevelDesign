@@ -6881,3 +6881,163 @@ Please use /Niagara/DynamicInputs/Angles/AngleConversion.AngleConversion instead
 [2022.03.09-04.25.05:746][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.03.09-04.25.05:762][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
 [2022.03.09-04.25.05:799][ 95]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2022.03.09-04.27.12:139][249]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.03.09-04.27.14:551][249]LogSlate: Window 'Delete Assets' being destroyed
+[2022.03.09-04.27.14:663][249]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.03.09-04.27.14:690][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.03.09-04.27.14:717][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.03.09-04.27.14:743][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.03.09-04.27.14:770][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.03.09-04.27.14:794][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.03.09-04.27.14:832][249]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.03.09-04.27.14:859][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.03.09-04.27.18:884][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.03.09-04.27.21:526][689]LogSlate: Window 'Delete Assets' being destroyed
+[2022.03.09-04.27.35:435][148]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.03.09-04.27.38:823][148]LogSlate: Window 'Delete Assets' being destroyed
+[2022.03.09-04.27.49:936][265]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2022.03.09-04.27.56:763][265]LogSlate: Window 'Delete Assets' being destroyed
+[2022.03.09-04.28.07:814][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.03.09-04.28.09:604][373]LogSlate: Window 'Delete Assets' being destroyed
+[2022.03.09-04.28.09:695][373]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/CityofBrass_Enemies/Meshes/Enemy/Hooker/Hooker_Mesh.Hooker_Mesh
+	Asset Name: /Game/CityofBrass_Enemies/Meshes/Enemy/Hooker/Hooker_Claw_Skel.Hooker_Claw_Skel
+	Asset Name: /Game/CityofBrass_Enemies/Meshes/Enemy/Hooker/Hooker_Claw_Skel_Skeleton.Hooker_Claw_Skel_Skeleton
+	Asset Name: /Game/CityofBrass_Enemies/Meshes/Enemy/Hooker/Hooker_Claw_Skel_Physics.Hooker_Claw_Skel_Physics
+	Asset Name: /Game/CityofBrass_Enemies/Meshes/Enemy/Hooker/Hooker_Boss_Mesh.Hooker_Boss_Mesh
+[2022.03.09-04.28.10:377][373]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.03.09-04.28.10:404][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.03.09-04.28.10:429][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.03.09-04.28.10:454][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.03.09-04.28.10:478][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.03.09-04.28.10:504][373]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.03.09-04.28.10:529][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.03.09-04.28.14:489][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.03.09-04.28.15:719][767]LogSlate: Window 'Delete Assets' being destroyed
+[2022.03.09-04.28.15:847][767]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.03.09-04.28.15:880][767]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.03.09-04.28.15:904][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.03.09-04.28.24:087][573]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Alert_Attack_Close.Charger_Alert_Attack_Close
+[2022.03.09-04.28.24:087][573]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Alert_ChargeAttack.Charger_Alert_ChargeAttack
+[2022.03.09-04.28.24:087][573]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2022.03.09-04.28.26:803][573]LogSlate: Window 'Delete Assets' being destroyed
+[2022.03.09-04.28.26:826][574]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Passive_Walk.Charger_Passive_Walk
+[2022.03.09-04.28.26:826][574]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Passive_Ilde.Charger_Passive_Ilde
+[2022.03.09-04.28.26:942][578]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_KnockDown.Charger_KnockDown
+[2022.03.09-04.28.26:942][578]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Flinch_back.Charger_Flinch_back
+[2022.03.09-04.28.27:027][582]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Death.Charger_Death
+[2022.03.09-04.28.27:074][583]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Alert_Stunned.Charger_Alert_Stunned
+[2022.03.09-04.28.27:116][585]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Alert_Ilde.Charger_Alert_Ilde
+[2022.03.09-04.28.27:257][588]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Alert_ChargeWall.Charger_Alert_ChargeWall
+[2022.03.09-04.28.30:691][932]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2022.03.09-04.28.35:667][932]LogSlate: Window 'Delete Assets' being destroyed
+[2022.03.09-04.28.59:757][216]LogStaticMesh: Building static mesh SM_Key...
+[2022.03.09-04.28.59:853][216]LogStaticMesh: Built static mesh [0.10s] /Game/Hour_of_Code/Static_Meshes/SM_Key.SM_Key
+[2022.03.09-04.28.59:910][216]LogMeshUtilities: Finished distance field build in 0.0s - 9x10x13 distance field, 430 triangles, Range [-0.2, 1.0], SM_Key
+[2022.03.09-04.28.59:910][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.03.09-04.29.03:359][216]LogSlate: Window 'Delete Assets' being destroyed
+[2022.03.09-04.29.06:922][527]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2022.03.09-04.29.08:169][527]LogSlate: Window 'Delete Assets' being destroyed
+[2022.03.09-04.29.08:260][527]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Hour_of_Code/Blueprints/BP_door_lever.BP_door_lever
+[2022.03.09-04.29.08:772][527]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2022.03.09-04.29.08:832][527]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.03.09-04.29.08:861][527]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.03.09-04.29.08:885][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.03.09-04.29.10:210][637]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2022.03.09-04.29.11:054][637]LogSlate: Window 'Delete Assets' being destroyed
+[2022.03.09-04.29.11:141][637]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Hour_of_Code/Blueprints/BP_Door_Locked_activity_4_end.BP_Door_Locked_activity_4_end
+[2022.03.09-04.29.11:642][637]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.03.09-04.29.11:700][637]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.03.09-04.29.11:724][637]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.03.09-04.29.11:749][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.03.09-04.29.43:244][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.03.09-04.29.44:919][743]LogSlate: Window 'Delete Assets' being destroyed
+[2022.03.09-04.29.45:032][743]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.03.09-04.29.45:059][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.03.09-04.29.45:084][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.03.09-04.29.45:115][743]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.03.09-04.29.45:140][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.03.09-04.29.52:090][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.03.09-04.29.53:940][359]LogSlate: Window 'Delete Assets' being destroyed
+[2022.03.09-04.29.54:066][359]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.03.09-04.29.54:091][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.03.09-04.29.54:116][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.03.09-04.29.54:147][359]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2022.03.09-04.29.54:171][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.03.09-04.29.57:550][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.03.09-04.29.58:693][646]LogSlate: Window 'Delete Assets' being destroyed
+[2022.03.09-04.29.58:815][646]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.03.09-04.29.58:847][646]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.03.09-04.29.58:872][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.03.09-04.30.18:535][817]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.18:548][818]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.18:560][819]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.18:571][820]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.18:581][821]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.18:592][822]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.18:603][823]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.18:615][824]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.18:625][825]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.18:636][826]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.18:647][827]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.18:658][828]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.18:667][829]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.18:677][830]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.18:686][831]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.18:697][832]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.18:708][833]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.18:722][834]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.18:797][835]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.18:817][836]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.18:830][837]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.18:841][838]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.18:852][839]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.18:866][840]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.18:877][841]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.18:889][842]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.18:901][843]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.18:920][844]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.18:930][845]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.18:940][846]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.18:953][847]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.18:963][848]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.18:972][849]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.18:982][850]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.18:992][851]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.19:003][852]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.19:015][853]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.19:024][854]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.19:034][855]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.19:047][856]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.19:056][857]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.19:065][858]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.19:075][859]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.19:086][860]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.19:097][861]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.19:107][862]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.19:118][863]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.19:129][864]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.19:139][865]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.19:150][866]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.19:161][867]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.19:171][868]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.19:182][869]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.19:193][870]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.19:205][871]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.19:214][872]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.19:223][873]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.19:235][874]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.19:245][875]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.19:255][876]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.19:265][877]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.19:273][878]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.19:283][879]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.19:296][880]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.19:307][881]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.19:316][882]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.19:326][883]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.19:335][884]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.19:345][885]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
+[2022.03.09-04.30.19:356][886]LogAnimation: Warning: SkeletalMesh Corpse_Basic has no skeleton. This needs to fixed before an animation can be set
